@@ -126,4 +126,4 @@ def main():
 
 df = main()
 
-df.to_csv("player-info.csv", index=False)
+df.to_csv("./data/player-info.csv", index=False)
