@@ -1,0 +1,464 @@
+player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
+133368,Ethan Bristow,2001-11-27,Defender,2022-06-14,Free,,England,,,,
+128729,Jake Burton,2001-11-15,Forward,2020-01-06,Unknown,Liverpool,England,,,,
+60649,Neill Byrne,1993-02-02,Defender,2023-01-06,Undisc.,"Portmarnoch, Republic of Irela",Ireland,,,,
+104579,Logan Chalmers,2000-03-24,Forward,2016-06-27,Youth,Scotland,Scotland,,,,
+103555,Joshua Dacres-Cogley,1996-03-12,Defender,2021-06-23,Free,Coventry,England,6ft,183.0,,
+76807,Tom Davies,1992-04-18,Defender,2021-06-09,Free,Warrington,England,5ft 10in,178.0,,
+89329,Ross Doohan,1998-03-29,Goalkeeper,2023-01-10,Undisc.,Scotland,Scotland,,,,
+165849,Max Fisher,2003-10-03,Midfielder,2022-08-01,,,England,,,,
+121903,Paul Glatzel,2001-02-20,Forward,2019-07-01,Youth,,England,,,,
+101331,Josh Hawkes,1999-01-28,Midfielder,2022-01-25,Unknown,Stockton-on-Tees,England,,,,
+58504,Kane Hemmings,1991-04-08,Forward,2022-01-13,Undisc.,England,England,,,,
+93064,Regan Hendry,1998-01-21,Midfielder,2021-06-23,Free,,Scotland,,,,
+96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,,,Poland,5ft 10in,178.0,11st 8lb,73.47
+162707,Ben Hockenhull,2001-09-03,Defender,2022-06-10,Free,,England,,,,
+144033,Rhys Hughes,2001-09-21,Forward,2023-01-18,Unknown,,Wales,,,,
+108098,Kyle Jameson,1998-09-11,Defender,2022-07-14,Free,,England,,,,
+71462,Paul Lewis,1994-12-17,Midfielder,2022-07-01,Free,Liverpool,England,6ft 1in,185.0,,
+165325,Arthur Lomax,2004-05-17,Midfielder,2022-07-01,,,England,,,,
+125105,Reece McAlear,2002-02-12,Midfielder,2022-06-09,Free,Scotland,Scotland,,,,
+104921,Christopher Merrie,1998-11-02,Midfielder,2021-06-10,Undisc.,Liverpool,England,,,,
+68138,Kieron Morris,1994-06-03,Midfielder,2019-06-26,Free,Hereford,England,5ft 10in,178.0,,
+104933,Joel Mumbongo,1999-01-09,Forward,2020-07-01,Unknown,,Sweden,,,,
+15110,Joe Murphy,1981-08-21,Goalkeeper,2020-08-22,Free,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
+140587,Elliott Nevitt,1996-10-30,Forward,2023-01-11,Undisc.,,England,,,,
+61258,Jon Nolan,1992-04-22,Midfielder,2022-07-01,Free,Huyton,England,5ft 11in,180.0,,
+117422,Lee O'Connor,2000-07-28,Midfielder,2021-08-31,Unknown,,Ireland,,,,
+133373,Luke Robinson,2001-11-20,Defender,2020-09-01,Unknown,Birkenhead,Scotland,,,,
+100535,Harvey Saunders,1997-07-20,Forward,2023-01-27,Undisc.,Wolverhampton,England,,,,
+125460,Dynel Simeu,2002-03-13,Defender,2021-07-27,"£1,500,000",,England,,,,
+165326,Samuel Taylor,2003-12-23,Forward,2022-07-01,,,England,,,,
+76981,Jordan Turnbull,1994-10-30,Defender,2022-07-26,Unknown,,England,,,,
+69329,Brad Walker,1995-04-25,Midfielder,2023-01-12,Unknown,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
+18605,Peter Clarke,1982-01-03,Defender,2022-11-01,,Southport,England,6ft,183.0,11st 9lb,73.92
+72487,Emmanuel Dieseruvwe,1994-01-05,Forward,2022-07-01,Free,,England,,,,
+40110,Mark Duffy,1985-10-07,Midfielder,,,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
+146009,Dylan Dwyer,,Midfielder,,,,England,,,,
+46973,Liam Feeney,1987-01-21,Midfielder,2022-01-26,Free,Hammersmith,England,6ft,183.0,12st,76.19
+44029,Sam Foley,1986-10-17,Midfielder,2022-06-21,Free,,Ireland,6ft,183.0,10st 12lb,68.94
+128556,Kyle Hayde,2001-09-25,Defender,,,England,England,,,,
+120094,Charlie Jolley,2001-01-13,Forward,2021-01-25,Undisc.,,England,,,,
+126479,Ben Jones,2000-11-29,Goalkeeper,,,England,England,,,,
+146008,Ethan Jones,2004-10-16,Defender,2022-09-27,Free,,England,,,,
+42622,Nat Knight-Percival,1987-03-31,Midfielder,2022-07-01,Free,Enfield,England,6ft,183.0,,
+96015,Calum MacDonald,1997-12-18,Defender,2023-02-01,Free,Scotland,Scotland,,,,
+85444,Joseph Maguire,1996-01-18,Defender,,,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
+41443,Nicky Maynard,1986-12-11,Forward,,,Winsford,England,5ft 11in,180.0,11st,69.84
+51474,Callum McManaman,1991-04-25,Midfielder,,,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
+114877,Joshua McPake,2001-08-31,Midfielder,2019-07-01,Youth,Scotland,Scotland,,,,
+49806,Jay Spearing,1988-11-25,Midfielder,2022-09-20,,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
+143946,Ryan Stratulis,2003-04-30,Midfielder,2021-08-09,Unknown,,England,,,,
+101526,Stephen Walker,2000-10-11,Midfielder,2018-08-01,Youth,Middlesbrough,England,,,,
+144980,Lewis Warrington,2002-10-10,Midfielder,2022-07-01,Unknown,,England,,,,
+67179,Ryan Watson,1993-07-07,Midfielder,2022-01-14,Unknown,Crewe,England,6ft 1in,185.0,,
+55846,Oliver Banks,1992-09-21,Midfielder,2022-07-01,Free,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
+46423,Ali Crawford,1991-07-30,Midfielder,2022-07-01,,Lanark,Scotland,5ft 7in,170.0,,
+41823,Scott Davies,1987-02-23,Goalkeeper,,,Blackpool,England,6ft,183.0,11st,69.84
+46623,Mark Ellis,1988-09-30,Defender,2022-10-28,Unknown,Plymouth,England,6ft 2in,188.0,12st 4lb,78.0
+88451,Morgan Ferrier,1994-11-15,Forward,2021-07-02,Unknown,Newham,England,6ft 1in,185.0,,
+128732,Ethan Gouldbourne,2000-10-10,Midfielder,,,Liverpool,England,,,,
+75196,Otis Khan,1995-09-05,Midfielder,2022-07-01,Free,,England,,,,
+104997,Nya Kirby,2000-01-31,Midfielder,,,Islington,England,5ft 7in,170.0,,
+56548,Danny Lloyd,1991-12-03,Midfielder,2022-12-09,Free,,England,,,,
+75406,Emmanuel Monthe,1995-01-26,Defender,2021-07-01,Free,"Douala, Cameroon",Cameroon,6ft 4in,193.0,,
+74341,Sid Nelson,1996-01-01,Defender,2022-07-01,Unknown,Lewisham,England,6ft 1in,185.0,,
+116933,George Nugent,2001-12-04,Midfielder,,,Birkenhead,England,,,,
+30552,David Nugent,1985-05-02,Forward,,,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
+54992,Stefan Payne,1991-08-10,Forward,2022-07-04,Free,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
+60385,George Ray,1993-10-13,Defender,2022-06-27,Free,England,Wales,5ft 10in,178.0,11st 3lb,71.2
+55554,Liam Ridehalgh,1991-04-20,Defender,2021-06-23,Free,England,England,5ft 10in,178.0,,
+99462,Sam Smith,1998-03-08,Forward,2021-07-07,Free,"Manchester,",England,6ft 1in,185.0,,
+87739,Corey Taylor,1997-09-23,Forward,2021-07-01,Unknown,"Birmingham, England",England,5ft 6in,168.0,,
+134764,Jamie Timlin,,Forward,,,England,England,,,,
+40847,James Vaughan,1988-07-14,Forward,,,Birmingham,England,5ft 9in,175.0,12st 9lb,80.27
+111844,Danny Walker-Rice,2000-11-10,Forward,2021-06-12,Free,,England,5ft 6in,168.0,,
+70918,Kaiyne Woolery,1995-01-11,Forward,2023-01-01,,"London, England",England,,,,
+125058,Jack Young,2000-10-21,Midfielder,2022-04-12,Undisc.,England,England,,,,
+128728,Joe Blackham,2001-09-10,Midfielder,,,Liverpool,England,,,,
+89002,Cameron Borthwick-Jackson,1997-02-02,Defender,2021-06-07,Free,,England,6ft 1in,185.0,,
+60564,Jake Caprice,1992-11-11,Midfielder,2020-08-06,Free,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
+70228,Aaron Chapman,1990-05-29,Goalkeeper,2022-05-23,Free,Rotherham,England,6ft 7in,200.99999999999997,,
+52497,Andy Cook,1990-10-18,Forward,2021-06-12,Free,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
+33325,Neil Danns,1982-11-23,Midfielder,2021-03-01,,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
+107023,Morgan Feeney,1999-02-08,Defender,2021-01-20,Free,Bootle,England,6ft 2in,188.0,,
+99454,Harvey Gilmour,1998-12-15,Midfielder,2021-07-07,Free,Sheffield,England,,,,
+81732,Rushian Hepburn-Murphy,1998-08-28,Forward,2022-09-01,Free,Birmingham,England,,,,
+63609,Connor Jennings,1991-10-29,Forward,2020-07-16,Free,Manchester,England,6ft,183.0,,
+97829,Jacob Maddox,1998-11-03,Midfielder,2022-09-05,Unknown,Bristol,England,,,,
+69031,Luke McCullough,1994-02-15,Defender,2020-08-01,Free,Portadown,Northern Ireland,,,,
+70542,Paul Mullin,1994-11-06,Forward,2021-07-23,Unknown,Liverpool,England,5ft 10in,178.0,11st 2lb,70.75
+128731,Harrison Musuamba,2002-05-20,Defender,,,Liverpool,England,,,,
+115884,Bailey Passant,2000-11-29,Goalkeeper,2020-07-01,Free,Liverpool,England,6ft 4in,193.0,,
+22779,David Perkins,1982-06-21,Midfielder,2020-08-16,Free,England,England,6ft 2in,188.0,12st,76.19
+73677,Luke Pilling,1997-07-25,Goalkeeper,2022-02-22,Free,England,Wales,6ft 1in,185.0,,
+104291,Jordan Ponticelli,1998-09-10,Forward,2022-11-01,,,England,5ft 10in,178.0,,
+35630,Darren Potter,1984-12-21,Midfielder,,,Liverpool,Ireland,6ft,183.0,11st 10lb,74.38
+128730,Lewis Sinnot,2002-03-04,Defender,2021-07-01,Free,Liverpool,England,,,,
+111842,Carl Spellman,2000-11-06,Midfielder,,,Liverpool,England,5ft 7in,170.0,,
+121908,Bailey Thompson,2001-06-07,Midfielder,2021-01-15,Free,Bury,England,,,,
+92840,Kane Wilson,2000-03-11,Defender,2022-06-10,Free,,England,,,,
+44052,Calum Woods,1987-02-05,Defender,2021-06-03,Free,England,England,5ft 11in,180.0,11st 7lb,73.02
+54534,Alex Woodyard,1993-05-03,Midfielder,2020-08-06,Free,Gravesend,England,5ft 8in,173.0,,
+115214,Franklyn Akammadu,1998-08-11,Forward,,,"Padova, Italy",Italy,,,,
+44204,Zoumana Bakayogo,1986-08-17,Defender,,,France,Ivory Coast,5ft 9in,175.0,10st 12lb,68.94
+58164,Adam Buxton,1992-05-12,Defender,,,Liverpool,England,6ft 1in,185.0,,
+62460,Larnell Cole,1993-03-09,Midfielder,2022-07-01,Unknown,Manchester,England,,,,
+36344,Chris Dagnall,1986-04-15,Forward,2019-10-07,Free,Liverpool,England,5ft 8in,173.0,11st 8lb,73.47
+114197,Jay Devine,1999-07-26,Midfielder,2020-07-01,Free,,England,,,,
+92850,Shamal George,1998-01-06,Goalkeeper,2022-07-23,Unknown,England,England,,,,
+77160,Evan Gumbs,1997-07-21,Defender,2021-02-01,Unknown,Runcorn,England,5ft 8in,173.0,,
+43779,Jay Harris,1987-04-15,Midfielder,2020-01-31,Free,Liverpool,England,5ft 7in,170.0,11st,69.84
+111843,Nick Long,,Midfielder,,,,England,,,,
+52777,Steve McNulty,1983-09-26,Defender,2022-09-27,Free,,England,6ft 1in,185.0,13st 12lb,87.98
+41710,Ishmael Miller,1987-03-05,Forward,,,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
+78694,Dylan Mottley Henry,1997-08-02,Midfielder,2022-11-01,,"Leeds, England",England,,,,
+51911,James Norwood,1990-10-24,Forward,2022-07-16,Free,England,England,5ft 9in,175.0,,
+51654,Ben Pringle,1989-07-25,Midfielder,2021-08-03,Free,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
+90268,Jonny Smith,1997-07-28,Forward,2021-01-29,Undisc.,England,England,,,,
+63703,Cole Stockton,1994-03-13,Forward,2019-07-01,Free,,England,,,,
+44409,Richard Sutton,1986-04-29,Defender,2022-07-01,Free,,England,6ft,183.0,11st 5lb,72.11
+86076,Ben Tollitt,1994-11-30,Forward,2022-07-26,Unknown,England,England,6ft 2in,188.0,,
+102631,Paddy Wharton,2000-05-27,Goalkeeper,2019-07-01,Free,,England,,,,
+49915,Ryan Williams,1991-04-08,Midfielder,,,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
+69292,James Alabi,1994-11-08,Forward,2022-07-01,Unknown,"London, England",England,,,,
+98638,Eddie Clarke,1998-12-29,Defender,2021-02-01,Unknown,,England,,,,
+111841,James Devine,,Midfielder,,,,,,,,
+102629,Declan Drysdale,1999-11-14,Defender,2022-06-07,Undisc.,Birkenhead,England,,,,
+80683,Mitch Duggan,1997-03-20,Defender,2021-04-16,Free,,England,,,,
+80291,Jack Dunn,1994-11-19,Forward,2021-07-01,Free,,England,,,,
+75869,Josh Ginnelly,1997-03-24,Forward,2021-06-17,Free,Coventry,England,5ft 8in,173.0,,
+80289,Devarn Green,1996-08-26,Forward,2022-03-11,Free,England,England,,,,
+41945,Jeff Hughes,1985-05-29,Midfielder,2019-01-01,Unknown,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
+89457,Josh Kay,1996-10-28,Midfielder,2018-07-01,Free,England,England,,,,
+65015,Jake Kirby,1994-05-09,Midfielder,,,Liverpool,England,,,,
+38248,Andy Mangan,1986-08-30,Forward,,,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
+87751,Gerry McDonagh,1998-02-14,Forward,2022-07-01,Free,Republic of Ireland,Ireland,,,,
+33803,James McEveley,1985-02-11,Defender,,,Liverpool,Scotland,6ft,183.0,13st 3lb,83.9
+62490,Oliver Norburn,1992-10-26,Midfielder,2021-08-10,Undisc.,Leicester,Grenada,6ft 1in,185.0,,
+104475,Elliot Rokka,1996-03-16,Midfielder,,,England,England,,,,
+102628,Josh Solomon-Davies,1999-11-20,Defender,2020-07-01,Free,,St. Lucia,,,,
+48375,Rhys Taylor,1990-04-07,Goalkeeper,2019-07-01,Unknown,Neath,Wales,6ft 1in,185.0,13st 3lb,83.9
+77908,Drissa Traore,1992-03-25,Midfielder,,,,Ivory Coast,5ft 8in,173.0,,
+49717,James Wallace,1991-12-19,Midfielder,,,Liverpool,England,5ft 10in,178.0,11st 5lb,72.11
+80602,George Waring,1994-12-02,Forward,2022-07-01,,,England,,,,
+102632,Udoyen Akpan,,Midfielder,,,,England,,,,
+51974,Louis Almond,1992-01-05,Forward,2018-07-01,Free,England,England,5ft 11in,180.0,12st,76.19
+78063,Aaron Collins,1997-05-27,Forward,2021-06-25,Free,"Newport, Wales",Wales,,,,
+102626,Tom Coughan,,Midfielder,,,,England,,,,
+66040,Adam Dawson,1992-10-05,Midfielder,,,,England,,,,
+102625,James Divine,,Midfielder,,,,England,,,,
+102633,Jack Flemming,,Midfielder,,,,England,,,,
+71423,Michael Ihiekwe,1992-11-20,Defender,2022-07-01,Free,England,England,6ft 1in,185.0,,
+94139,Sam Ilesanmi,,Forward,2017-07-14,Unknown,,England,,,,
+36541,Steven Jennings,1984-10-28,Midfielder,,,Liverpool,England,5ft 5in,165.0,12st 1lb,76.64
+89957,Ethan Jones,1998-04-04,Forward,2018-02-02,,England,England,,,,
+102630,Callum Lucy,,Midfielder,,,,England,,,,
+71520,Lois Maynard,1989-01-22,Defender,2022-07-01,Free,England,St Kitts & Nevis,,,,
+52480,Adam Mekki,1991-12-24,Midfielder,2022-07-01,Free,England,Wales,,,,
+88950,Elliot Osborne,1996-05-12,Midfielder,2022-01-06,Free,,England,,,,
+74288,Erico Sousa,1995-03-12,Midfielder,2022-07-26,Unknown,"Moita, Portugal",Portugal,5ft 6in,168.0,9st 10lb,61.68
+58780,Darren Stephenson,1993-03-06,Forward,2022-11-20,Unknown,,Jamaica,,,,
+22030,Iain Turner,1984-01-26,Goalkeeper,2017-07-13,Unknown,stirling,Scotland,6ft 3in,191.0,11st 9lb,73.92
+41399,Lee Vaughan,1986-07-17,Defender,2022-01-17,Free,,England,5ft 7in,170.0,10st 8lb,67.12
+88395,Darren Askew,,Midfielder,,,,England,,,,
+66526,Nathan Blissett,1990-07-29,Forward,2020-07-25,Free,,England,,,,
+78996,Scott Fenwick,1990-04-09,Forward,2020-08-01,Free,England,England,,,,
+35555,Michael Higdon,1983-09-02,Forward,2016-12-01,Unknown,England,England,6ft 1in,185.0,12st 5lb,78.46
+15314,Matthew Hill,1981-03-26,Defender,2021-07-01,Free,Bristol,England,5ft 7in,170.0,12st 6lb,78.91
+62951,Liam Hogan,1989-02-08,Defender,2022-06-01,Free,,England,,,,
+46619,Marcus Holness,1988-12-08,Defender,,,,England,6ft,183.0,12st 2lb,77.1
+51765,Marlon Jackson,1990-12-06,Forward,2020-12-04,Free,,England,6ft 1in,185.0,12st 7lb,79.37
+55478,Jack Mackreth,1992-04-13,Forward,2021-03-05,Free,,England,,,,
+80206,Jonathon Margetts,1993-09-28,Forward,2018-07-01,Free,,England,,,,
+86848,Andy Mathieson,,NA,,,,England,,,,
+46691,Martin Riley,1986-12-05,Defender,2019-07-01,Free,,England,6ft 2in,188.0,13st 1lb,82.99
+18014,Gary Taylor-Fletcher,1981-06-04,Forward,2018-11-09,Unknown,Liverpool,England,6ft,183.0,11st,69.84
+59954,Ben Tomlinson,1989-10-11,Forward,2019-07-01,Free,,England,,,,
+74874,Will Aimson,1994-01-01,Defender,2023-01-27,Undisc.,Christchurch,England,,,,
+52842,George Barker,1991-09-26,Midfielder,,,,England,,,,
+53459,Abdulai Bell-Baggie,1992-04-28,Midfielder,2021-07-01,Free,Sierra Leone,Sierra Leone,6ft 1in,185.0,13st 2lb,83.45
+44040,Peter Brezovan,1979-12-09,Goalkeeper,,,Bratislava,Slovakia,6ft 6in,198.0,15st 6lb,97.96
+55881,Gerardo Bruna,1991-01-29,Midfielder,2022-09-14,Unknown,Argentina,Argentina,5ft 7in,170.0,10st 1lb,63.95
+79797,Liam Davies,1996-07-02,Midfielder,2020-10-01,Unknown,,England,,,,
+69047,Ben Davies,1995-08-11,Defender,2022-07-19,"£4,000,000",Barrow,England,6ft 1in,185.0,,
+74169,Janoi Donacien,1993-11-03,Defender,2019-01-03,Unknown,Castries,St. Lucia,6ft,183.0,,
+51374,George Donnelly,1988-05-28,Forward,,,,England,,,,
+57274,Rory Donnelly,1992-02-18,Forward,2020-01-31,Unknown,,Northern Ireland,6ft 2in,188.0,,
+45280,Adam Dugdale,1987-09-12,Defender,2017-07-01,Free,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
+67060,Matthias Fanimo,1994-01-28,Forward,2022-07-01,Unknown,,England,,,,
+70884,Shamir Fenelon,1994-08-03,Forward,2021-07-01,Free,"Brighton, England",Ireland,,,,
+43123,Owain Fon Williams,1987-03-17,Goalkeeper,2020-08-03,Free,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
+53388,Danny Gardner,1990-04-05,Forward,2022-07-29,Unknown,Manchester,England,6ft 1in,185.0,,
+14601,Matthew Gill,1980-11-08,Midfielder,,,Cambridge,England,5ft 11in,180.0,11st 9lb,73.92
+69045,Armand Gnanduillet,1992-02-13,Forward,2022-01-21,Undisc.,"Angers, France",France,6ft 4in,193.0,13st 12lb,87.98
+81892,George Green,1996-01-02,Midfielder,2019-07-01,Free,,England,,,,
+46677,Danny Holmes,1989-01-06,Defender,2018-07-01,Unknown,Wirral,England,6ft,183.0,12st,76.19
+72606,Jordan Hugill,1992-06-04,Forward,2023-01-25,Free,"Middlesbrough, England",England,6ft,183.0,,
+18869,Iain Hume,1983-10-30,Forward,2016-02-08,Signed,Edinburgh,Canada,5ft 7in,170.0,11st 5lb,72.11
+80605,Ben Jago,1996-09-04,Midfielder,2016-08-27,Unknown,,England,,,,
+72069,Calaum Jahraldo-Martin,1993-04-27,Forward,2018-10-01,Unknown,England,Antigua & Barbuda,,,,
+78589,Danny Johnson,1993-02-28,Forward,,,"Middlesbrough, England",England,,,,
+13834,Jason Koumas,1979-09-25,Midfielder,,,Wrexham,Wales,5ft 8in,173.0,11st 6lb,72.56
+45088,Marc Laird,1986-01-23,Midfielder,2022-07-01,Free,Edinburgh,Scotland,5ft 11in,180.0,12st 13lb,82.09
+42194,Guy Madjo,1984-06-01,Forward,,,,Cameroon,6ft,183.0,11st 5lb,72.11
+49727,Clayton McDonald,1988-12-26,Defender,2017-08-10,Free,Liverpool,England,6ft 6in,198.0,15st 6lb,97.96
+71940,Harrison McGahey,1995-09-26,Defender,2021-07-01,Free,,England,6ft 2in,188.0,,
+53827,Lee Molyneux,1989-02-24,Midfielder,2019-07-01,Free,,England,,,,
+44584,Jennison Myrie-Williams,1988-05-17,Midfielder,2021-08-13,Free,Bristol,England,6ft,183.0,12st,76.19
+19157,Kayode Odejayi,1982-02-21,Forward,2017-07-01,Unknown,"Ibadon, Nigeria",Nigeria,6ft 3in,191.0,12st 2lb,77.1
+82567,Tolani Omotola,1998-04-16,Forward,,,,England,,,,
+55480,Max Power,1993-07-27,Midfielder,2021-06-16,Free,Birkenhead,England,5ft 11in,180.0,12st 4lb,78.0
+69960,Sam Ramsbottom,1996-04-03,Goalkeeper,2022-07-12,Unknown,,England,,,,
+60000,Eliot Richards,1991-09-10,Forward,2022-08-31,,,Wales,5ft 9in,175.0,,
+61259,James Rowe,1991-10-21,Midfielder,,,,England,,,,
+21776,Chris Shuker,1982-05-09,Midfielder,,,"Liverpool, England",England,5ft 5in,165.0,9st 4lb,58.96
+49472,Robert Taylor,1985-01-16,Defender,2015-08-07,Free,,England,5ft 10in,178.0,12st 13lb,82.09
+50919,Josh Thompson,1991-02-25,Defender,,,,England,6ft 3in,191.0,11st 9lb,73.92
+42500,Danny Woodards,1983-10-07,Defender,,,London,England,5ft 11in,180.0,11st,69.84
+50757,John-Louis Akpa Akpro,1985-01-04,Forward,2022-07-01,Unknown,Toulouse,Ivory Coast,6ft,183.0,10st 12lb,68.94
+74148,Gboly Ariyibi,1995-01-18,Forward,2021-08-07,Unknown,USA,USA,6ft,183.0,,
+74174,Stephen Arthurworrey,1994-10-15,Defender,,,,England,,,,
+55556,Chris Atkinson,1992-02-13,Midfielder,2019-07-01,Unknown,,England,6ft,183.0,,
+73366,Antonie Boland,1994-12-30,Defender,2015-04-01,Free,,England,,,,
+46696,Junior Brown,1989-05-07,Defender,,,,England,5ft 9in,175.0,10st 10lb,68.03
+64444,Jake Cassidy,1993-02-09,Forward,2021-08-01,Free,,Wales,,,,
+60033,Ryan Edwards,1993-11-17,Midfielder,2021-07-05,Free,Singapore,Australia,5ft 7in,170.0,,
+13823,Stephen Foster,1980-09-18,Defender,,,Mansfield,England,5ft 11in,180.0,12st 4lb,78.0
+14177,Ian Goodison,1972-11-21,Defender,,,"Montego Bay, Jamaica",Jamaica,6ft 1in,185.0,13st 8lb,86.17
+52014,Tom Hateley,1989-09-12,Midfielder,2018-01-19,Unknown,,England,,,,
+40982,Evan Horwood,1986-03-10,Defender,2017-07-17,Free,Hartlepool,England,6ft,183.0,11st 9lb,73.92
+57204,Andrai Jones,1992-01-01,Defender,2020-12-01,Free,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
+58113,Matthew Kennedy,1994-11-01,Midfielder,2020-01-01,Unknown,"Belfast, Northern Ireland",Northern Ireland,5ft 9in,175.0,,
+21292,Ryan Lowe,1978-09-18,Forward,,,Liverpool,England,5ft 11in,180.0,11st 3lb,71.2
+72078,Ben Maher,1995-09-28,Midfielder,2020-10-16,Unknown,Wales,England,,,,
+36254,Jim McNulty,1985-02-13,Defender,2015-06-02,Free,Liverpool,Scotland,6ft,183.0,12st 1lb,76.64
+65749,Jason Mooney,1989-02-26,Goalkeeper,2018-07-01,Unknown,,Northern Ireland,6ft 9in,206.0,,
+72692,Callum Morris,1992-09-01,Midfielder,2015-07-01,Signed,,England,,,,
+32335,Jon Otsemobor,1983-03-23,Defender,,,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
+70729,Matthew Pennington,1994-10-06,Defender,2021-07-01,Free,Warrington,England,6ft 1in,185.0,,
+73901,Kristoffer Peterson,1994-11-28,Midfielder,2020-10-05,"£400,000","Gothenburg, Sweden",Sweden,,,,
+34287,Andy Robinson,1979-11-03,Midfielder,,,,England,5ft 8in,173.0,10st 1lb,63.95
+24524,Akpo Sodje,1981-01-31,Forward,,,,England,6ft 1in,185.0,12st 4lb,78.0
+51399,Ash Taylor,1990-09-02,Defender,2021-07-07,Free,England,Wales,6ft,183.0,12st,76.19
+43751,Joe Thompson,1989-03-05,Midfielder,,,Rochdale,England,6ft,183.0,9st 6lb,59.86
+73122,Brad Watkins,1994-09-11,Goalkeeper,2017-07-01,Free,,England,,,,
+55423,David Amoo,1991-04-13,Forward,2023-01-19,Free,England,England,5ft 10in,178.0,12st 2lb,77.1
+47926,Paul Black,1990-01-18,Defender,,,,England,6ft,183.0,12st 11lb,81.18
+55158,Paul Corry,1991-02-03,Midfielder,2017-01-01,Free,,Ireland,,,,
+68398,Donervon Daniels,1993-11-24,Defender,2022-01-24,Undisc.,Montserrat,Montserrat,6ft 1in,185.0,,
+52660,Nathan Eccleston,1990-12-30,Forward,2019-03-28,Unknown,"Manchester, England",England,5ft 10in,178.0,10st 2lb,64.4
+54425,Ben Gibson,1993-01-15,Defender,2021-07-01,"£8,000,000",Nunthorpe,England,6ft 1in,185.0,12st 3lb,77.55
+55925,Roman Golobart,1992-03-21,Defender,2019-09-01,,"Barcelona, Spain",Spain,,,,
+26297,Danny Harrison,1982-11-04,Midfielder,2021-08-05,Free,Liverpool,England,5ft 11in,180.0,12st 4lb,78.0
+53233,Jake Jervis,1991-09-17,Forward,2020-08-19,Free,,England,6ft 3in,191.0,12st 9lb,80.27
+47242,Michael Kay,1989-09-12,Defender,,,,England,6ft,183.0,13st 3lb,83.9
+44173,Mark McChrystal,1984-06-26,Defender,2019-07-04,Unknown,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
+64219,Sean McGinty,1993-08-11,Defender,2021-07-01,Free,,Ireland,,,,
+55851,Adam McGurk,1989-01-24,Forward,2019-07-01,Free,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
+58154,Michael O'Halloran,1991-01-06,Forward,2019-01-18,Unknown,Glasgow,Scotland,5ft 11in,180.0,,
+53112,Liam Palmer,1991-09-19,Defender,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
+26762,Mamady Sidibe,1979-12-18,Forward,,,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
+65293,Will Vaulks,1993-09-13,Midfielder,2022-07-01,Free,"Liverpool, England",Wales,5ft 11in,180.0,,
+46484,Lucas Akins,1989-02-25,Forward,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
+49716,Jose Baxter,1992-02-07,Forward,,,Bootle,England,5ft 10in,178.0,11st 6lb,72.56
+62991,Ryan Brunt,1993-05-26,Forward,2020-10-09,Free,Birmingham,England,6ft 1in,185.0,,
+40756,David Buchanan,1986-05-06,Defender,,,Rochdale,England,5ft 8in,173.0,10st 8lb,67.12
+54030,Andy Coughlin,1993-01-31,Goalkeeper,,,,England,6ft 2in,188.0,14st 3lb,90.25
+61489,John Courtney,,Goalkeeper,,,,England,,,,
+15091,Martin Devaney,1980-06-01,Midfielder,2013-09-23,Signed,Cheltenham,Ireland,5ft 8in,173.0,11st 8lb,73.47
+49743,Ryan Donaldson,1991-05-01,Midfielder,2022-02-11,Unknown,Newcastle upon Tyne,England,6ft 4in,193.0,14st 11lb,93.88
+53268,Lateef Elford Alliyu,1992-06-01,Forward,,,"Ibadan, Nigeria",Nigeria,5ft 8in,173.0,,
+50844,Joss Labadie,1990-08-30,Midfielder,2021-06-12,Free,,England,6ft 2in,188.0,14st,88.89
+18964,Paul Rachubka,1981-05-21,Goalkeeper,,,"California, USA",USA,6ft,183.0,13st 3lb,83.9
+40226,David Raven,1985-03-10,Defender,2020-07-01,Free,England,England,6ft,183.0,11st 3lb,71.2
+36304,Enoch Showunmi,1982-04-21,Forward,,,London,Nigeria,6ft 5in,196.0,15st 8lb,98.87
+57630,Mustafa Tiryaki,1987-03-02,Forward,,,,England,,,,
+57821,Robbie Weir,1988-12-09,Midfielder,2021-01-01,Unknown,,Northern Ireland,5ft 9in,175.0,11st 7lb,73.02
+32332,John Welsh,1984-01-10,Midfielder,,,Liverpool,England,5ft 7in,170.0,11st 5lb,72.11
+52216,Kithson Bain,1982-05-26,Forward,,,,Grenada,5ft 8in,173.0,12st 5lb,78.46
+55546,Liam Benson,1992-02-25,Defender,2014-07-01,,England,England,,,,
+55545,Maxime Blanchard,1986-09-27,Defender,,,,France,,,,
+1010,Marlon Broomes,1977-11-28,Defender,,,Birmingham,England,6ft,183.0,12st 7lb,79.37
+53334,Kayleden Brown,1992-04-15,Forward,2013-08-01,Signed,England,Wales,,,,
+55476,Timothy Cathalina,1985-01-24,Defender,,,,Netherlands,5ft 9in,175.0,11st 8lb,73.47
+51740,Joe Collister,1991-12-15,Goalkeeper,,,,England,6ft,183.0,,
+49870,Aaron Cresswell,1989-12-15,Defender,2014-07-03,"£3,750,000",Liverpool,England,5ft 7in,170.0,10st 3lb,64.85
+54244,Liam Darville,1990-10-26,Defender,,,,England,5ft 9in,175.0,11st 4lb,71.66
+51687,Ryan Fraughan,1991-02-11,Midfielder,2015-07-01,Signed,,England,,,,
+47248,Terry Gornell,1989-12-16,Forward,,,Liverpool,England,5ft 11in,180.0,12st 4lb,78.0
+51365,Jermaine Grandison,1990-12-05,Defender,,,,England,6ft 4in,193.0,13st 3lb,83.9
+49869,Peter Gulacsi,1990-05-06,Goalkeeper,2015-07-01,Signed,"Budapest, Hungary",Hungary,6ft 2in,188.0,11st 8lb,73.47
+55479,Dale Jennings,1992-12-21,Midfielder,,,"Liverpool, England",England,5ft 7in,170.0,11st 1lb,70.29
+4733,Alan Mahon,1978-04-04,Midfielder,,,Dublin,Ireland,5ft 5in,165.0,10st,63.49
+53326,Sam Mantom,1992-02-20,Midfielder,2020-11-27,Free,Stourbridge,England,5ft 9in,175.0,,
+5204,Paul McLaren,1976-11-17,Midfielder,,,High Wycombe,England,6ft,183.0,13st 2lb,83.45
+51865,Arnaud Mendy,1990-02-19,Midfielder,2018-07-20,Free,France,Guinea-Bissau,,,,
+55849,Simon Miotto,1969-09-05,Goalkeeper,,,,Australia,,,,
+36463,Sam Morrow,1985-03-03,Forward,2017-05-01,Unknown,Northern Ireland,Northern Ireland,6ft,183.0,12st 2lb,77.1
+46582,Gunnar Nielsen,1986-10-07,Goalkeeper,2020-07-01,Unknown,"Torshavn, Faroe Islands",Faroe Islands,6ft 3in,191.0,14st,88.89
+5556,Ian Thomas-Moore,1976-08-26,Forward,,,Birkenhead,England,5ft 9in,175.0,11st 9lb,73.92
+8299,Anthony Warner,1974-05-11,Goalkeeper,,,"Liverpool, England",Trinidad & Tobago,6ft 3in,191.0,13st 7lb,85.71
+55477,Nick Wood,1990-11-09,Defender,,,,England,6ft 2in,188.0,13st 5lb,84.81
+57255,Scott Wootton,1991-09-12,Defender,2022-01-17,Unknown,Birkenhead,England,6ft 2in,188.0,,
+51901,Thomas Baker,,Midfielder,,,,England,,,,
+49459,Charlie Barnett,1988-09-19,Midfielder,2014-07-01,Signed,Liverpool,England,5ft 7in,170.0,11st 7lb,73.02
+30472,Sebastien Carole,1982-09-08,Midfielder,2015-08-07,Signed,"Pontoise, France",Martinique,5ft 5in,165.0,11st 3lb,71.2
+45355,Craig Carl Curran,1989-08-23,Forward,2022-08-18,Unknown,Liverpool,England,5ft 10in,178.0,11st 6lb,72.56
+44154,Luke Daniels,1988-01-05,Goalkeeper,2021-08-09,Free,"Bolton, England",England,6ft 4in,193.0,12st 7lb,79.37
+20578,Gareth Edds,1981-02-03,Midfielder,,,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
+53588,Ben Gordon,1991-03-02,Defender,2017-08-31,Free,Bradford,England,5ft 9in,175.0,11st 8lb,73.47
+50869,Gavin Gunning,1991-01-26,Defender,2022-07-30,Unknown,Republic of Ireland,Ireland,6ft 1in,185.0,13st 2lb,83.45
+47194,Shaleum Logan,1988-01-29,Defender,2014-05-27,Free,England,England,5ft 8in,173.0,12st 6lb,78.91
+50951,Josh Macauley,1991-03-02,Forward,2010-08-01,Free,,England,,,,
+37093,David Martin,1986-01-22,Goalkeeper,2022-09-23,Unknown,Romford,England,6ft 1in,185.0,13st 9lb,86.62
+21233,Chris McCready,1981-07-05,Defender,,,Chester,England,6ft 1in,185.0,12st 2lb,77.1
+49649,Luke O'Neill,1991-08-20,Defender,2022-07-01,Free,Slough,England,6ft,183.0,11st 3lb,71.2
+9303,Michael Ricketts,1978-12-04,Forward,,,Birmingham,England,6ft 2in,188.0,11st 12lb,75.28
+30699,Bas Savage,1982-01-07,Forward,,,London,England,6ft 2in,188.0,13st 5lb,84.81
+51720,Marvin Sordell,1991-02-17,Forward,,,England,England,5ft 10in,178.0,12st 5lb,78.46
+15136,John Achterberg,1971-07-08,Goalkeeper,,,"Utrecht, Holland",Netherlands,6ft 3in,191.0,13st,82.54
+35934,Adnan Ahmed,1984-06-07,Midfielder,2011-08-01,Free,Burnley,Pakistan,5ft 10in,178.0,11st 12lb,75.28
+46377,Godwin Antwi,1988-06-07,Defender,,,Tafu,Ghana,,,,
+51259,Robbie Burns,1999-11-15,Midfielder,2014-07-01,Free,,England,,,,
+28928,Benjamin Chorley,1982-09-30,Defender,,,Sidcup,England,6ft 3in,191.0,13st 3lb,83.9
+1721,Danny Coyne,1973-08-27,Goalkeeper,,,Prestatyn,Wales,6ft,183.0,13st,82.54
+9758,Chris Greenacre,1977-12-23,Forward,,,Wakefield,England,5ft 11in,180.0,12st 8lb,79.82
+44093,Paul Henry,1988-01-28,Midfielder,,,Liverpool,England,5ft 9in,175.0,11st 5lb,72.11
+50065,John Johnson,1988-09-16,Defender,,,,England,6ft,183.0,12st 2lb,77.1
+21689,Anthony Kay,1982-10-21,Midfielder,2020-08-01,Unknown,England,England,6ft,183.0,13st 6lb,85.26
+51109,Peter Kennedy,,Goalkeeper,,,,England,,,,
+51215,Danny Mayor,1990-10-18,Midfielder,2019-07-01,Free,England,England,6ft,183.0,12st,76.19
+15089,George O'Callaghan,1979-09-05,Midfielder,,,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
+33760,Philip Palethorpe,1986-09-17,Goalkeeper,,,,England,6ft 2in,188.0,11st 8lb,73.47
+47302,Ryan Shotton,1988-10-30,Defender,2021-01-14,Unknown,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
+22272,Edrissa Sonko,1980-03-23,Midfielder,,,Essau,Gambia,5ft 7in,170.0,12st 2lb,77.1
+41203,Andy Taylor,1986-03-14,Defender,2019-10-07,Free,Blackburn,England,5ft 9in,175.0,11st 4lb,71.66
+49461,Luke Waterfall,1990-07-30,Defender,2019-08-15,Unknown,,England,6ft 2in,188.0,13st 3lb,83.9
+13854,Mark Wilson,1979-02-09,Midfielder,,,Scunthorpe,England,5ft 9in,175.0,12st 1lb,76.64
+27015,Shane Cansdell-Sherriff,1982-11-10,Defender,,,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
+1638,Kevin Cooper,1975-02-08,Midfielder,,,Derby,England,5ft 8in,173.0,10st 7lb,66.67
+41795,Steve Davies,1987-12-29,Forward,,,Liverpool,England,6ft 1in,185.0,11st 6lb,72.56
+43715,Mike Jones,1987-08-15,Midfielder,2022-08-02,Unknown,Birkenhead,England,6ft,183.0,12st 2lb,77.1
+46270,Shane McWeeney,1989-10-14,Goalkeeper,,,,,,,,
+5675,John Mullin,1975-08-11,Midfielder,,,Bury,England,6ft,183.0,11st,69.84
+13755,Robert Stockdale,1979-11-30,Defender,,,Redcar,Scotland,5ft 9in,175.0,12st 2lb,77.1
+7820,Gareth Taylor,1973-02-25,Forward,,,Weston-super-Mare,Wales,6ft 1in,185.0,13st 5lb,84.81
+37206,Carl Tremarco,1985-10-11,Defender,,,,England,5ft 9in,175.0,12st 2lb,77.1
+35556,Calvin Zola,1984-12-31,Forward,,,Kinshasa,DR Congo,6ft 3in,191.0,13st 8lb,86.17
+17470,Kevin Ellison,1979-02-23,Midfielder,,,Liverpool,England,5ft 11in,180.0,11st 11lb,74.83
+34502,Joe Hart,1987-04-19,Goalkeeper,2021-08-03,Undisc.,"Shrewsbury, England",England,6ft 5in,196.0,12st 5lb,78.46
+46287,Ben Hinchliffe,1988-10-09,Goalkeeper,,,,England,5ft 10in,178.0,11st 7lb,73.02
+38609,Oliver James,1987-01-13,Midfielder,,,,England,5ft 11in,180.0,10st 12lb,68.94
+44094,Michael Johnston,1987-12-16,Defender,2015-07-01,,,Wales,,,,
+4961,Jason McAteer,1971-06-18,Midfielder,,,Birkenhead,Ireland,5ft 9in,175.0,11st 5lb,72.11
+29172,John Thompson,1981-10-12,Defender,,,Dublin,Ireland,6ft,183.0,12st 2lb,77.1
+8286,Gavin Ward,1970-06-30,Goalkeeper,,,Sutton Coldfield,England,6ft 3in,191.0,14st 12lb,94.33
+8943,Samuel Aiston,1976-11-21,Midfielder,,,Newcastle,England,6ft 2in,188.0,12st,76.19
+38608,Paul Brown,1984-09-10,Midfielder,2010-08-01,Free,,England,,,11st 13lb,75.74
+40576,Alex Bruce,1984-09-28,Defender,,,England,Northern Ireland,5ft 11in,180.0,11st 4lb,71.66
+10608,Delroy Facey,1980-04-22,Forward,,,Huddersfield,England,5ft 9in,175.0,12st 5lb,78.46
+33766,Simion Francis,1985-02-16,Defender,,,Nottingham,England,6ft,183.0,14st 2lb,89.8
+3855,Michael Jackson,1973-12-04,Defender,,,Liverpool,England,6ft,183.0,13st 8lb,86.17
+32159,Paul Linwood,1983-10-24,Defender,2015-07-01,,Birkenhead,England,6ft,183.0,12st 5lb,78.46
+13800,Matt Murray,1981-05-02,Goalkeeper,,,Solihull,England,6ft 3in,191.0,13st 7lb,85.71
+28848,Steven O'Leary,1985-02-12,Midfielder,2011-06-01,,London,Ireland,5ft 8in,173.0,11st 6lb,72.56
+6578,Simon Rankine,1969-09-30,Midfielder,,,Doncaster,England,5ft 10in,178.0,11st 1lb,70.29
+9708,Gareth Roberts,1978-02-06,Defender,,,Wrexham,Wales,5ft 6in,168.0,11st 8lb,73.47
+38758,Dino Seremet,1980-08-16,Goalkeeper,2013-08-17,Signed,,Slovenia,6ft 4in,193.0,,
+15076,Ian Sharps,1980-10-23,Defender,,,Warrington,England,6ft 3in,191.0,14st 2lb,89.8
+7718,Nicholas Summerbee,1971-08-26,Midfielder,,,Altrincham,England,5ft 11in,180.0,11st 8lb,73.47
+14207,Theodore Whitmore,1972-08-05,Midfielder,,,"Kingston, Jamaica",Jamaica,6ft 2in,188.0,12st 10lb,80.73
+8621,Steven Wilson,1974-04-24,Goalkeeper,,,Hull,England,5ft 10in,178.0,10st 7lb,66.67
+626,David Beresford,1976-11-11,Midfielder,,,Middlesbrough,England,5ft 8in,173.0,10st 9lb,67.57
+27359,Eugene Dadi,1973-08-20,Forward,,,France,France,6ft 2in,188.0,12st 11lb,81.18
+3185,Paul Hall,1972-07-03,Midfielder,,,Manchester,Jamaica,5ft 9in,175.0,10st 4lb,65.31
+3343,Simon Haworth,1977-03-30,Forward,,,Cardiff,Wales,6ft 1in,185.0,13st 8lb,86.17
+17197,Russell Howarth,1982-03-27,Goalkeeper,,,York,England,6ft 2in,188.0,14st 5lb,91.16
+3982,Gary Jones,1975-05-10,Midfielder,,,Chester,England,6ft 3in,191.0,14st,88.89
+32243,Tyrone Loran,1981-06-29,Defender,,,Amsterdam,Netherlands,6ft 1in,185.0,13st 7lb,85.71
+32156,Ryan Taylor,1984-08-19,Defender,,,Liverpool,England,6ft 2in,188.0,11st 8lb,73.47
+107,Graham Allen,1977-04-08,Defender,,,Bolton,England,6ft 1in,185.0,12st,76.19
+37529,Neil Ashton,1985-01-15,Defender,2017-07-01,Unknown,Liverpool,England,5ft 7in,170.0,12st 2lb,77.1
+1600,Sean Connelly,1970-06-26,Defender,,,Sheffield,England,5ft 10in,178.0,11st 10lb,74.38
+3044,Kevin Gray,1972-01-07,Defender,,,Sheffield,England,6ft,183.0,14st 3lb,90.25
+20585,Alexander Hay,1981-10-14,Forward,,,Wirral,England,5ft 10in,178.0,11st 5lb,72.11
+5361,Michael Mellon,1972-03-18,Midfielder,,,Paisley,Scotland,5ft 10in,178.0,12st 11lb,81.18
+24138,Alan Navarro,1981-05-31,Midfielder,,,Liverpool,England,5ft 10in,178.0,11st 7lb,73.02
+5857,Shane Nicholson,1970-06-03,Defender,,,Newark,England,5ft 10in,178.0,12st 2lb,77.1
+24722,James Olsen,1981-10-23,Defender,,,Liverpool,England,5ft 10in,178.0,12st,76.19
+5998,Ifem Onuora,1967-07-28,Forward,,,Glasgow,,6ft 2in,188.0,14st,88.89
+163,Iain Anderson,1977-07-23,Midfielder,,,Glasgow,Scotland,5ft 8in,173.0,9st 7lb,60.32
+409,Stuart Barlow,1968-07-16,Forward,,,Liverpool,England,5ft 10in,178.0,11st 2lb,70.75
+1860,Thomas Curtis,1973-03-01,Midfielder,,,Exeter,England,5ft 10in,178.0,12st,76.19
+2281,Christian Edwards,1975-11-23,Defender,,,Caerphilly,Wales,6ft 2in,188.0,11st 9lb,73.92
+2491,Anthony Feuer,1971-05-20,Goalkeeper,,,"Las Vegas, USA",USA,6ft 7in,200.99999999999997,14st,88.89
+14771,Richard Hinds,1980-08-22,Defender,2015-07-01,Free,Sheffield,England,6ft 2in,188.0,12st 2lb,77.1
+5101,Patrick McGibbon,1973-09-06,Defender,,,Lurgan,Northern Ireland,6ft 2in,188.0,12st 11lb,81.18
+32157,Jamie McGuire,1983-11-13,Midfielder,2017-06-01,Free,Birkenhead,England,5ft 9in,175.0,12st 8lb,79.82
+5877,Eric Nixon,1962-10-04,Goalkeeper,,,Manchester,England,6ft 4in,193.0,14st,88.89
+10722,Andrew Parkinson,1979-05-27,Midfielder,2014-07-01,Signed,Liverpool,England,5ft 6in,168.0,10st 12lb,68.94
+9299,Jason Price,1977-04-12,Forward,,,Pontypridd,Wales,6ft 1in,185.0,11st 3lb,71.2
+16024,Adam Proudlock,1981-05-09,Forward,,,Wellington,England,6ft,183.0,13st 2lb,83.45
+16511,Marvin Robinson,1980-04-11,Forward,2013-12-24,Signed,Crewe,England,6ft,183.0,12st 13lb,82.09
+8393,Keith Welch,1968-10-03,Goalkeeper,,,Bolton,England,6ft,183.0,12st,76.19
+8463,Philip Whitehead,1969-12-17,Goalkeeper,,,Halifax,England,6ft 3in,191.0,13st 7lb,85.71
+122,Wayne Allison,1968-10-16,Forward,,,Huddersfield,England,6ft 1in,185.0,14st 5lb,91.16
+9801,David Challinor,1975-10-02,Defender,,,Chester,England,6ft 1in,185.0,12st,76.19
+2564,Sean Flynn,1968-03-13,Midfielder,,,Birmingham,England,5ft 8in,173.0,11st 8lb,73.47
+2866,Wayne Gill,1975-11-28,Midfielder,,,Chorley,England,5ft 10in,178.0,11st 3lb,71.2
+15022,Reuben Hazell,1979-04-24,Defender,,,Birmingham,England,5ft 11in,180.0,11st 11lb,74.83
+3433,Nicholas Henry,1969-02-21,Midfielder,2002-07-12,Free,Liverpool,England,5ft 6in,168.0,9st 8lb,60.77
+10720,Clinton Hill,1978-10-19,Defender,,,Liverpool,England,6ft,183.0,11st 4lb,71.66
+3920,Richard Jobson,1963-05-09,Defender,,,Hull,England,6ft 1in,185.0,13st 5lb,84.81
+5578,Alan Morgan,1973-11-02,Defender,,,Aberystwyth,Wales,5ft 9in,175.0,10st 12lb,68.94
+24422,Seyni N'Diaye,,Forward,,,,Senegal,,,,
+24672,Andrew Ralph,1983-05-28,Goalkeeper,,,Manchester,England,6ft 1in,185.0,14st 1lb,89.34
+6723,Paul Rideout,1964-08-14,Forward,,,Bournemouth,England,5ft 11in,180.0,12st 1lb,76.64
+28843,Craig Taylor,,NA,,,,England,,,,
+26299,Sean Thornton,1983-05-18,Midfielder,2015-03-23,Signed,Drogheda,Ireland,5ft 10in,178.0,11st,69.84
+8750,Steve Yates,1970-01-29,Defender,,,Bristol,England,5ft 11in,180.0,12st,76.19
+19812,Paul Aldridge,1981-12-02,Forward,,,Liverpool,England,5ft 11in,180.0,11st 6lb,72.56
+3210,Derrick Hamilton,1976-08-15,Midfielder,,,Bradford,England,5ft 11in,180.0,14st,88.89
+4118,Jeffrey Kenna,1970-08-27,Defender,,,Dublin,Ireland,5ft 11in,180.0,12st 2lb,77.1
+13521,Thomas Myhre,1973-10-16,Goalkeeper,,,"Sarpsborg, Norway",Norway,6ft 2in,188.0,13st,82.54
+6025,Simon Osborn,1972-01-19,Midfielder,,,Croydon,England,5ft 10in,178.0,11st 4lb,71.66
+7832,Scott Taylor,1976-05-05,Forward,2009-07-01,Free,Chertsey,England,5ft 10in,178.0,11st 4lb,71.66
+24078,Perry Taylor,,Midfielder,,,,England,,,,
+306,Philip Babb,1970-11-30,Defender,,,Lambeth,Ireland,6ft,183.0,12st 3lb,77.55
+11685,Michael Black,1976-10-06,Midfielder,,,Chigwell,England,5ft 8in,173.0,11st 8lb,73.47
+11104,Stephen Frail,1969-08-10,Defender,,,Glasgow,Scotland,6ft,183.0,11st 13lb,75.74
+14769,Neil Gibson,1979-10-10,Midfielder,2005-02-15,Signed,St Asaph,Wales,5ft 11in,180.0,11st 8lb,73.47
+3021,Tony Grant,1974-11-14,Midfielder,,,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
+3990,Lee Jones,1973-05-29,Forward,,,Wrexham,Wales,5ft 8in,173.0,10st 8lb,67.12
+4100,David Kelly,1965-11-25,Forward,,,Birmingham,Ireland,5ft 11in,180.0,11st 3lb,71.2
+15987,Pedro Miguel Matias,1973-10-11,Midfielder,,,"Madrid, Spain",Spain,6ft,183.0,12st,76.19
+14774,Andy Moran,,Forward,2010-08-01,Free,,,,,,
+15027,Georges Santos,1970-08-15,Defender,2008-01-23,Signed,Marseille,Cape Verde,6ft 3in,191.0,14st 8lb,92.52
+7898,Andrew Thompson,1967-11-09,Defender,,,Cannock,England,5ft 5in,165.0,10st 6lb,66.21
+3810,Kenneth Irons,1970-11-04,Midfielder,,,Liverpool,England,5ft 9in,175.0,11st,69.84
+5121,John McGreal,1972-06-02,Defender,,,Birkenhead,England,5ft 11in,180.0,10st 11lb,68.48
+5618,John Morrissey,1965-03-08,Forward,,,Liverpool,England,5ft 8in,173.0,11st 9lb,73.92
+5912,Liam O'Brien,1964-09-05,Midfielder,,,Dublin,Ireland,6ft 1in,185.0,11st 10lb,74.38
+6947,Craig Russell,1974-02-04,Forward,,,South Shields,England,5ft 10in,178.0,12st 6lb,78.91
+9704,Paul Shepherd,1977-11-17,Forward,,,Leeds,England,6ft,183.0,11st 4lb,71.66
+10723,Steven Simonsen,1979-04-03,Goalkeeper,,,South Shields,England,6ft 2in,188.0,12st 4lb,78.0
+9155,Ryan Williams,1978-08-31,Midfielder,,,Mansfield,England,5ft 4in,163.0,9st 6lb,59.86
+79,John Aldridge,1958-09-18,Forward,,,Liverpool,Ireland,5ft 11in,180.0,11st 4lb,71.66
+917,Graham Branch,1972-02-12,Midfielder,,,Liverpool,England,6ft 2in,188.0,12st 2lb,77.1
+1622,Paul Cook,1967-02-22,Midfielder,,,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
+11878,Dirk Hebel,,Midfielder,,,,Germany,,,,
+4316,Dariusz Kubicki,1963-06-06,Defender,,,"Warsaw, Poland",Poland,5ft 11in,180.0,11st 2lb,70.75
+10712,Kevin McIntyre,1977-12-23,Defender,2014-07-01,Signed,Liverpool,England,6ft,183.0,11st 11lb,74.83
+13832,Gareth Powell,,Defender,,,,,,,,
+7606,Michael Stevens,1963-03-27,Defender,,,Barrow,England,5ft 11in,180.0,10st 11lb,68.48
+7940,Andrew Thorn,1966-11-12,Defender,,,Carshalton,England,6ft,183.0,11st 5lb,72.11
+805,Ivano Bonetti,1964-08-01,Midfielder,,,"Brescia, Italy",Italy,5ft 10in,178.0,11st,69.84
+925,Gerard Brannan,1972-01-15,Midfielder,,,Prescot,England,6ft,183.0,13st 6lb,85.26
+3482,David Higgins,1961-08-19,Defender,1985-08-01,Free,Liverpool,England,6ft,183.0,11st,69.84
+5682,Steven Mungall,1958-05-22,Defender,,,Bellshill,Scotland,5ft 8in,173.0,11st 5lb,72.11
+5828,Patrick Nevin,1963-09-06,Forward,,,Glasgow,Scotland,5ft 6in,168.0,11st 5lb,72.11
+8945,Alan Rogers,1977-01-03,Defender,,,Liverpool,England,5ft 10in,178.0,11st 8lb,73.47
+7838,Shaun Teale,1964-03-10,Defender,,,Southport,England,6ft,183.0,13st 10lb,87.08
+7874,Anthony Thomas,1971-07-12,Defender,,,Liverpool,England,5ft 11in,180.0,12st 5lb,78.46
+9811,Billy Woods,1973-10-24,Forward,,,Cork,Ireland,6ft,183.0,12st,76.19
