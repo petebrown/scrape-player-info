@@ -78,7 +78,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 128728,Joe Blackham,2001-09-10,Midfielder,,,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,2021-06-07,Free,,England,6ft 1in,185.0,,
 60564,Jake Caprice,1992-11-11,Midfielder,2020-08-06,Free,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
-70228,Aaron Chapman,1990-05-29,Goalkeeper,2022-05-23,Free,Rotherham,England,6ft 7in,200.99999999999997,,
+70228,Aaron Chapman,1990-05-29,Goalkeeper,2023-02-06,Unknown,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,2021-06-12,Free,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,2021-03-01,,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
 107023,Morgan Feeney,1999-02-08,Defender,2021-01-20,Free,Bootle,England,6ft 2in,188.0,,
@@ -144,7 +144,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 80602,George Waring,1994-12-02,Forward,2022-07-01,,,England,,,,
 102632,Udoyen Akpan,,Midfielder,,,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,2018-07-01,Free,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Forward,2021-06-25,Free,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Midfielder,2021-06-25,Free,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,,,England,,,,
 102625,James Divine,,Midfielder,,,,England,,,,
@@ -243,7 +243,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 51399,Ash Taylor,1990-09-02,Defender,2021-07-07,Free,England,Wales,6ft,183.0,12st,76.19
 43751,Joe Thompson,1989-03-05,Midfielder,,,Rochdale,England,6ft,183.0,9st 6lb,59.86
 73122,Brad Watkins,1994-09-11,Goalkeeper,2017-07-01,Free,,England,,,,
-55423,David Amoo,1991-04-13,Forward,2023-01-19,Free,England,England,5ft 10in,178.0,12st 2lb,77.1
+55423,David Amoo,1991-04-13,Midfielder,2023-01-19,Free,England,England,5ft 10in,178.0,12st 2lb,77.1
 47926,Paul Black,1990-01-18,Defender,,,,England,6ft,183.0,12st 11lb,81.18
 55158,Paul Corry,1991-02-03,Midfielder,2017-01-01,Free,,Ireland,,,,
 68398,Donervon Daniels,1993-11-24,Defender,2022-01-24,Undisc.,Montserrat,Montserrat,6ft 1in,185.0,,
