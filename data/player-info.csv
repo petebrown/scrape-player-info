@@ -17,7 +17,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 108098,Kyle Jameson,1998-09-11,Defender,2022-07-14,Free,,England,,,,
 71462,Paul Lewis,1994-12-17,Midfielder,2022-07-01,Free,Liverpool,England,6ft 1in,185.0,,
 165325,Arthur Lomax,2004-05-17,Midfielder,2022-07-01,,,England,,,,
-125105,Reece McAlear,2002-02-12,Midfielder,2022-06-09,Free,Scotland,Scotland,,,,
+125105,Reece McAlear,2002-02-12,Forward,2022-06-09,Free,Scotland,Scotland,,,,
 104921,Christopher Merrie,1998-11-02,Midfielder,2021-06-10,Undisc.,Liverpool,England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,2019-06-26,Free,Hereford,England,5ft 10in,178.0,,
 104933,Joel Mumbongo,1999-01-09,Forward,2020-07-01,Unknown,,Sweden,,,,
@@ -30,6 +30,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 125460,Dynel Simeu,2002-03-13,Defender,2021-07-27,"£1,500,000",,England,,,,
 165326,Samuel Taylor,2003-12-23,Forward,2022-07-01,,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,2022-07-26,Unknown,,England,,,,
+144533,Jay Turner-Cook,2003-12-31,Midfielder,2021-08-30,Unknown,,England,,,,
 69329,Brad Walker,1995-04-25,Midfielder,2023-01-12,Unknown,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 18605,Peter Clarke,1982-01-03,Defender,2022-11-01,,Southport,England,6ft,183.0,11st 9lb,73.92
 72487,Emmanuel Dieseruvwe,1994-01-05,Forward,2022-07-01,Free,,England,,,,
@@ -144,7 +145,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 80602,George Waring,1994-12-02,Forward,2022-07-01,,,England,,,,
 102632,Udoyen Akpan,,Midfielder,,,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,2018-07-01,Free,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Midfielder,2021-06-25,Free,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Forward,2021-06-25,Free,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,,,England,,,,
 102625,James Divine,,Midfielder,,,,England,,,,
@@ -216,7 +217,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 49472,Robert Taylor,1985-01-16,Defender,2015-08-07,Free,,England,5ft 10in,178.0,12st 13lb,82.09
 50919,Josh Thompson,1991-02-25,Defender,,,,England,6ft 3in,191.0,11st 9lb,73.92
 42500,Danny Woodards,1983-10-07,Defender,,,London,England,5ft 11in,180.0,11st,69.84
-50757,John-Louis Akpa Akpro,1985-01-04,Forward,2022-07-01,Unknown,Toulouse,Ivory Coast,6ft,183.0,10st 12lb,68.94
+50757,John-Louis Akpa Akpro,1985-01-04,Forward,2022-07-01,Unknown,Toulouse,France,6ft,183.0,10st 12lb,68.94
 74148,Gboly Ariyibi,1995-01-18,Forward,2021-08-07,Unknown,USA,USA,6ft,183.0,,
 74174,Stephen Arthurworrey,1994-10-15,Defender,,,,England,,,,
 55556,Chris Atkinson,1992-02-13,Midfielder,2019-07-01,Unknown,,England,6ft,183.0,,
@@ -257,7 +258,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 64219,Sean McGinty,1993-08-11,Defender,2021-07-01,Free,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,2019-07-01,Free,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Forward,2019-01-18,Unknown,Glasgow,Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Defender,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Midfielder,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,,,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,2022-07-01,Free,"Liverpool, England",Wales,5ft 11in,180.0,,
 46484,Lucas Akins,1989-02-25,Forward,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
