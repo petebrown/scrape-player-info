@@ -61,7 +61,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 128732,Ethan Gouldbourne,2000-10-10,Midfielder,,,Liverpool,England,,,,
 75196,Otis Khan,1995-09-05,Midfielder,2022-07-01,Free,,England,,,,
 104997,Nya Kirby,2000-01-31,Midfielder,,,Islington,England,5ft 7in,170.0,,
-56548,Danny Lloyd,1991-12-03,Midfielder,2022-12-09,Free,,England,,,,
+56548,Danny Lloyd,1991-12-03,Forward,2022-12-09,Free,,England,,,,
 75406,Emmanuel Monthe,1995-01-26,Defender,2021-07-01,Free,"Douala, Cameroon",Cameroon,6ft 4in,193.0,,
 74341,Sid Nelson,1996-01-01,Defender,2022-07-01,Unknown,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,,,Birkenhead,England,,,,
@@ -190,7 +190,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 67060,Matthias Fanimo,1994-01-28,Forward,2022-07-01,Unknown,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,2021-07-01,Free,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,2020-08-03,Free,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
-53388,Danny Gardner,1990-04-05,Forward,2022-07-29,Unknown,Manchester,England,6ft 1in,185.0,,
+53388,Danny Gardner,1990-04-05,Midfielder,2022-07-29,Unknown,Manchester,England,6ft 1in,185.0,,
 14601,Matthew Gill,1980-11-08,Midfielder,,,Cambridge,England,5ft 11in,180.0,11st 9lb,73.92
 69045,Armand Gnanduillet,1992-02-13,Forward,2022-01-21,Undisc.,"Angers, France",France,6ft 4in,193.0,13st 12lb,87.98
 81892,George Green,1996-01-02,Midfielder,2019-07-01,Free,,England,,,,
@@ -258,7 +258,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 64219,Sean McGinty,1993-08-11,Defender,2021-07-01,Free,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,2019-07-01,Free,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Forward,2019-01-18,Unknown,Glasgow,Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Midfielder,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Defender,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,,,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,2022-07-01,Free,"Liverpool, England",Wales,5ft 11in,180.0,,
 46484,Lucas Akins,1989-02-25,Forward,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
