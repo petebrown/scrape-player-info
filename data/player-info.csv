@@ -61,7 +61,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 128732,Ethan Gouldbourne,2000-10-10,Midfielder,,,Liverpool,England,,,,
 75196,Otis Khan,1995-09-05,Midfielder,2022-07-01,Free,,England,,,,
 104997,Nya Kirby,2000-01-31,Midfielder,,,Islington,England,5ft 7in,170.0,,
-56548,Danny Lloyd,1991-12-03,Forward,2022-12-09,Free,,England,,,,
+56548,Danny Lloyd,1991-12-03,Midfielder,2022-12-09,Free,,England,,,,
 75406,Emmanuel Monthe,1995-01-26,Defender,2021-07-01,Free,"Douala, Cameroon",Cameroon,6ft 4in,193.0,,
 74341,Sid Nelson,1996-01-01,Defender,2022-07-01,Unknown,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,,,Birkenhead,England,,,,
@@ -131,7 +131,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 75869,Josh Ginnelly,1997-03-24,Forward,2021-06-17,Free,Coventry,England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Forward,2022-03-11,Free,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,2019-01-01,Unknown,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1996-10-28,Midfielder,2018-07-01,Free,England,England,,,,
+89457,Josh Kay,1996-10-28,Forward,2018-07-01,Free,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,,,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,,,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,2022-07-01,Free,Republic of Ireland,Ireland,,,,
@@ -310,7 +310,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 20578,Gareth Edds,1981-02-03,Midfielder,,,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
 53588,Ben Gordon,1991-03-02,Defender,2017-08-31,Free,Bradford,England,5ft 9in,175.0,11st 8lb,73.47
 50869,Gavin Gunning,1991-01-26,Defender,2022-07-30,Unknown,Republic of Ireland,Ireland,6ft 1in,185.0,13st 2lb,83.45
-47194,Shaleum Logan,1988-01-29,Defender,2014-05-27,Free,England,England,5ft 8in,173.0,12st 6lb,78.91
+47194,Shaleum Logan,1988-01-29,Midfielder,2014-05-27,Free,England,England,5ft 8in,173.0,12st 6lb,78.91
 50951,Josh Macauley,1991-03-02,Forward,2010-08-01,Free,,England,,,,
 37093,David Martin,1986-01-22,Goalkeeper,2022-09-23,Unknown,Romford,England,6ft 1in,185.0,13st 9lb,86.62
 21233,Chris McCready,1981-07-05,Defender,,,Chester,England,6ft 1in,185.0,12st 2lb,77.1
