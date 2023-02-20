@@ -96,6 +96,15 @@ def add_position(player_id):
         position = "NA"
     return position
 
+def insert_manual_updates(df):
+    updates = pd.read_csv("./manual_updates.csv", parse_dates=["player_dob", "date_signed"])
+
+    df.player_id = df.player_id.astype(int)
+    df = df[~df.player_id.isin(updates.player_id)]
+    df = pd.concat([df, updates]).reset_index(drop=True)
+
+    return df
+
 def main():
     season_urls = get_season_urls()    
 
@@ -121,6 +130,8 @@ def main():
 
     cols_to_keep = ["player_id", "real_name", "player_dob", "player_position", "date_signed", "fee", "place_of_birth", "nationality", "height_ft", "height_cm", "weight_st", "weight_kg"]
     df = df[cols_to_keep]
+
+    df = insert_manual_updates(df)
     
     return df
 

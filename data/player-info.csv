@@ -24,7 +24,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 15110,Joe Murphy,1981-08-21,Goalkeeper,2020-08-22,Free,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
 140587,Elliott Nevitt,1996-10-30,Forward,2023-01-11,Undisc.,,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,2022-07-01,Free,Huyton,England,5ft 11in,180.0,,
-117422,Lee O'Connor,2000-07-28,Midfielder,2021-08-31,Unknown,,Ireland,,,,
+117422,Lee O'Connor,2000-07-28,Defender,2021-08-31,Unknown,,Ireland,,,,
 133373,Luke Robinson,2001-11-20,Defender,2020-09-01,Unknown,Birkenhead,Scotland,,,,
 100535,Harvey Saunders,1997-07-20,Forward,2023-01-27,Undisc.,Wolverhampton,England,,,,
 125460,Dynel Simeu,2002-03-13,Defender,2021-07-27,"£1,500,000",,England,,,,
@@ -70,7 +70,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 60385,George Ray,1993-10-13,Defender,2022-06-27,Free,England,Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,2021-06-23,Free,England,England,5ft 10in,178.0,,
 99462,Sam Smith,1998-03-08,Forward,2021-07-07,Free,"Manchester,",England,6ft 1in,185.0,,
-87739,Corey Taylor,1997-09-23,Forward,2021-07-01,Unknown,"Birmingham, England",England,5ft 6in,168.0,,
+87739,Corey Taylor,1997-09-23,Midfielder,2021-07-01,Unknown,"Birmingham, England",England,5ft 6in,168.0,,
 134764,Jamie Timlin,,Forward,,,England,England,,,,
 40847,James Vaughan,1988-07-14,Forward,,,Birmingham,England,5ft 9in,175.0,12st 9lb,80.27
 111844,Danny Walker-Rice,2000-11-10,Forward,2021-06-12,Free,,England,5ft 6in,168.0,,
@@ -78,7 +78,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 125058,Jack Young,2000-10-21,Midfielder,2022-04-12,Undisc.,England,England,,,,
 128728,Joe Blackham,2001-09-10,Midfielder,,,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,2021-06-07,Free,,England,6ft 1in,185.0,,
-60564,Jake Caprice,1992-11-11,Midfielder,2020-08-06,Free,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
+60564,Jake Caprice,1992-11-11,Defender,2020-08-06,Free,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
 70228,Aaron Chapman,1990-05-29,Goalkeeper,2023-02-06,Unknown,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,2021-06-12,Free,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,2021-03-01,,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
@@ -116,7 +116,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 78694,Dylan Mottley Henry,1997-08-02,Midfielder,2022-11-01,,"Leeds, England",England,,,,
 51911,James Norwood,1990-10-24,Forward,2022-07-16,Free,England,England,5ft 9in,175.0,,
 51654,Ben Pringle,1989-07-25,Midfielder,2021-08-03,Free,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
-90268,Jonny Smith,1997-07-28,Forward,2021-01-29,Undisc.,England,England,,,,
+90268,Jonny Smith,1997-07-28,Midfielder,2021-01-29,Undisc.,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,2019-07-01,Free,,England,,,,
 44409,Richard Sutton,1986-04-29,Defender,2022-07-01,Free,,England,6ft,183.0,11st 5lb,72.11
 86076,Ben Tollitt,1994-11-30,Forward,2022-07-26,Unknown,England,England,6ft 2in,188.0,,
@@ -131,7 +131,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 75869,Josh Ginnelly,1997-03-24,Forward,2021-06-17,Free,Coventry,England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Forward,2022-03-11,Free,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,2019-01-01,Unknown,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1996-10-28,Forward,2018-07-01,Free,England,England,,,,
+89457,Josh Kay,1996-10-28,Midfielder,2018-07-01,Free,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,,,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,,,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,2022-07-01,Free,Republic of Ireland,Ireland,,,,
@@ -151,10 +151,8 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 102625,James Divine,,Midfielder,,,,England,,,,
 102633,Jack Flemming,,Midfielder,,,,England,,,,
 71423,Michael Ihiekwe,1992-11-20,Defender,2022-07-01,Free,England,England,6ft 1in,185.0,,
-94139,Sam Ilesanmi,,Forward,2017-07-14,Unknown,,England,,,,
 36541,Steven Jennings,1984-10-28,Midfielder,,,Liverpool,England,5ft 5in,165.0,12st 1lb,76.64
 89957,Ethan Jones,1998-04-04,Forward,2018-02-02,,England,England,,,,
-102630,Callum Lucy,,Midfielder,,,,England,,,,
 71520,Lois Maynard,1989-01-22,Defender,2022-07-01,Free,England,St Kitts & Nevis,,,,
 52480,Adam Mekki,1991-12-24,Midfielder,2022-07-01,Free,England,Wales,,,,
 88950,Elliot Osborne,1996-05-12,Midfielder,2022-01-06,Free,,England,,,,
@@ -413,7 +411,6 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 10720,Clinton Hill,1978-10-19,Defender,,,Liverpool,England,6ft,183.0,11st 4lb,71.66
 3920,Richard Jobson,1963-05-09,Defender,,,Hull,England,6ft 1in,185.0,13st 5lb,84.81
 5578,Alan Morgan,1973-11-02,Defender,,,Aberystwyth,Wales,5ft 9in,175.0,10st 12lb,68.94
-24422,Seyni N'Diaye,,Forward,,,,Senegal,,,,
 24672,Andrew Ralph,1983-05-28,Goalkeeper,,,Manchester,England,6ft 1in,185.0,14st 1lb,89.34
 6723,Paul Rideout,1964-08-14,Forward,,,Bournemouth,England,5ft 11in,180.0,12st 1lb,76.64
 28843,Craig Taylor,,NA,,,,England,,,,
@@ -425,7 +422,6 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 13521,Thomas Myhre,1973-10-16,Goalkeeper,,,"Sarpsborg, Norway",Norway,6ft 2in,188.0,13st,82.54
 6025,Simon Osborn,1972-01-19,Midfielder,,,Croydon,England,5ft 10in,178.0,11st 4lb,71.66
 7832,Scott Taylor,1976-05-05,Forward,2009-07-01,Free,Chertsey,England,5ft 10in,178.0,11st 4lb,71.66
-24078,Perry Taylor,,Midfielder,,,,England,,,,
 306,Philip Babb,1970-11-30,Defender,,,Lambeth,Ireland,6ft,183.0,12st 3lb,77.55
 11685,Michael Black,1976-10-06,Midfielder,,,Chigwell,England,5ft 8in,173.0,11st 8lb,73.47
 11104,Stephen Frail,1969-08-10,Defender,,,Glasgow,Scotland,6ft,183.0,11st 13lb,75.74
@@ -463,3 +459,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 7838,Shaun Teale,1964-03-10,Defender,,,Southport,England,6ft,183.0,13st 10lb,87.08
 7874,Anthony Thomas,1971-07-12,Defender,,,Liverpool,England,5ft 11in,180.0,12st 5lb,78.46
 9811,Billy Woods,1973-10-24,Forward,,,Cork,Ireland,6ft,183.0,12st,76.19
+24422,Seyni N'Diaye,1973-06-01,Forward,,,Dakar,Senegal,,,,
+24078,Perry Taylor,1981-01-29,Forward,,,Birkenhead,England,,,,
+94139,Sam Ilesanmi,1998-07-13,Forward,2017-07-14,,,England,,,,
+102630,Callum Lucy,1998-11-09,Midfielder,,,,England,,,,
