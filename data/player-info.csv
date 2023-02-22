@@ -154,7 +154,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 36541,Steven Jennings,1984-10-28,Midfielder,,,Liverpool,England,5ft 5in,165.0,12st 1lb,76.64
 89957,Ethan Jones,1998-04-04,Forward,2018-02-02,,England,England,,,,
 71520,Lois Maynard,1989-01-22,Defender,2022-07-01,Free,England,St Kitts & Nevis,,,,
-52480,Adam Mekki,1991-12-24,Midfielder,2022-07-01,Free,England,Wales,,,,
+52480,Adam Mekki,1991-12-24,Midfielder,2023-02-17,,England,Wales,,,,
 88950,Elliot Osborne,1996-05-12,Midfielder,2022-01-06,Free,,England,,,,
 74288,Erico Sousa,1995-03-12,Midfielder,2022-07-26,Unknown,"Moita, Portugal",Portugal,5ft 6in,168.0,9st 10lb,61.68
 58780,Darren Stephenson,1993-03-06,Forward,2022-11-20,Unknown,,Jamaica,,,,
@@ -327,7 +327,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 50065,John Johnson,1988-09-16,Defender,,,,England,6ft,183.0,12st 2lb,77.1
 21689,Anthony Kay,1982-10-21,Midfielder,2020-08-01,Unknown,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,,,England,,,,
-51215,Danny Mayor,1990-10-18,Midfielder,2019-07-01,Free,England,England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Forward,2019-07-01,Free,England,England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,,,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,2021-01-14,Unknown,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
