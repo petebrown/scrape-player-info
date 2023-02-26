@@ -15,16 +15,16 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 162707,Ben Hockenhull,2001-09-03,Defender,2022-06-10,Free,,England,,,,
 144033,Rhys Hughes,2001-09-21,Forward,2023-01-18,Unknown,,Wales,,,,
 108098,Kyle Jameson,1998-09-11,Defender,2022-07-14,Free,,England,,,,
-71462,Paul Lewis,1994-12-17,Midfielder,2022-07-01,Free,Liverpool,England,6ft 1in,185.0,,
+71462,Paul Lewis,1994-12-17,Forward,2022-07-01,Free,Liverpool,England,6ft 1in,185.0,,
 165325,Arthur Lomax,2004-05-17,Midfielder,2022-07-01,,,England,,,,
-125105,Reece McAlear,2002-02-12,Forward,2022-06-09,Free,Scotland,Scotland,,,,
+125105,Reece McAlear,2002-02-12,Midfielder,2022-06-09,Free,Scotland,Scotland,,,,
 104921,Christopher Merrie,1998-11-02,Midfielder,2021-06-10,Undisc.,Liverpool,England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,2019-06-26,Free,Hereford,England,5ft 10in,178.0,,
 104933,Joel Mumbongo,1999-01-09,Forward,2020-07-01,Unknown,,Sweden,,,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,2020-08-22,Free,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
 140587,Elliott Nevitt,1996-10-30,Forward,2023-01-11,Undisc.,,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,2022-07-01,Free,Huyton,England,5ft 11in,180.0,,
-117422,Lee O'Connor,2000-07-28,Defender,2021-08-31,Unknown,,Ireland,,,,
+117422,Lee O'Connor,2000-07-28,Midfielder,2021-08-31,Unknown,,Ireland,,,,
 133373,Luke Robinson,2001-11-20,Defender,2020-09-01,Unknown,Birkenhead,Scotland,,,,
 100535,Harvey Saunders,1997-07-20,Forward,2023-01-27,Undisc.,Wolverhampton,England,,,,
 125460,Dynel Simeu,2002-03-13,Defender,2021-07-27,"£1,500,000",,England,,,,
@@ -129,9 +129,9 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 80683,Mitch Duggan,1997-03-20,Defender,2021-04-16,Free,,England,,,,
 80291,Jack Dunn,1994-11-19,Forward,2021-07-01,Free,,England,,,,
 75869,Josh Ginnelly,1997-03-24,Forward,2021-06-17,Free,Coventry,England,5ft 8in,173.0,,
-80289,Devarn Green,1996-08-26,Forward,2022-03-11,Free,England,England,,,,
+80289,Devarn Green,1996-08-26,Midfielder,2022-03-11,Free,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,2019-01-01,Unknown,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1996-10-28,Midfielder,2018-07-01,Free,England,England,,,,
+89457,Josh Kay,1996-10-28,Forward,2018-07-01,Free,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,,,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,,,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,2022-07-01,Free,Republic of Ireland,Ireland,,,,
@@ -256,7 +256,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 64219,Sean McGinty,1993-08-11,Defender,2021-07-01,Free,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,2019-07-01,Free,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Forward,2019-01-18,Unknown,Glasgow,Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Defender,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Midfielder,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,,,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,2022-07-01,Free,"Liverpool, England",Wales,5ft 11in,180.0,,
 46484,Lucas Akins,1989-02-25,Forward,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
