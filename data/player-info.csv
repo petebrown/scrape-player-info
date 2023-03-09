@@ -119,7 +119,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 90268,Jonny Smith,1997-07-28,Forward,2021-01-29,Undisc.,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,2019-07-01,Free,,England,,,,
 44409,Richard Sutton,1986-04-29,Defender,2022-07-01,Free,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Forward,2022-07-26,Unknown,England,England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Midfielder,2022-07-26,Unknown,England,England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,2019-07-01,Free,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,,,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,2022-07-01,Unknown,"London, England",England,,,,
@@ -129,7 +129,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 80683,Mitch Duggan,1997-03-20,Defender,2021-04-16,Free,,England,,,,
 80291,Jack Dunn,1994-11-19,Forward,2021-07-01,Free,,England,,,,
 75869,Josh Ginnelly,1997-03-24,Forward,2021-06-17,Free,Coventry,England,5ft 8in,173.0,,
-80289,Devarn Green,1996-08-26,Midfielder,2022-03-11,Free,England,England,,,,
+80289,Devarn Green,1996-08-26,Forward,2022-03-11,Free,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,2019-01-01,Unknown,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
 89457,Josh Kay,1996-10-28,Forward,2018-07-01,Free,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,,,Liverpool,England,,,,
@@ -154,7 +154,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 36541,Steven Jennings,1984-10-28,Midfielder,,,Liverpool,England,5ft 5in,165.0,12st 1lb,76.64
 89957,Ethan Jones,1998-04-04,Forward,2018-02-02,,England,England,,,,
 71520,Lois Maynard,1989-01-22,Defender,2022-07-01,Free,England,St Kitts & Nevis,,,,
-52480,Adam Mekki,1991-12-24,Midfielder,2023-02-17,,England,England,,,,
+52480,Adam Mekki,1991-12-24,Midfielder,2023-02-17,,England,Wales,,,,
 88950,Elliot Osborne,1996-05-12,Midfielder,2022-01-06,Free,,England,,,,
 74288,Erico Sousa,1995-03-12,Midfielder,2022-07-26,Unknown,"Moita, Portugal",Portugal,5ft 6in,168.0,9st 10lb,61.68
 58780,Darren Stephenson,1993-03-06,Forward,2022-11-20,Unknown,,Jamaica,,,,
@@ -188,7 +188,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 67060,Matthias Fanimo,1994-01-28,Forward,2022-07-01,Unknown,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,2021-07-01,Free,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,2023-03-01,,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
-53388,Danny Gardner,1990-04-05,Midfielder,2022-07-29,Unknown,Manchester,England,6ft 1in,185.0,,
+53388,Danny Gardner,1990-04-05,Forward,2022-07-29,Unknown,Manchester,England,6ft 1in,185.0,,
 14601,Matthew Gill,1980-11-08,Midfielder,,,Cambridge,England,5ft 11in,180.0,11st 9lb,73.92
 69045,Armand Gnanduillet,1992-02-13,Forward,2022-01-21,Undisc.,"Angers, France",France,6ft 4in,193.0,13st 12lb,87.98
 81892,George Green,1996-01-02,Midfielder,2019-07-01,Free,,England,,,,
