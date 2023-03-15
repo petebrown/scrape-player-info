@@ -70,7 +70,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 60385,George Ray,1993-10-13,Defender,2022-06-27,Free,England,Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,2021-06-23,Free,England,England,5ft 10in,178.0,,
 99462,Sam Smith,1998-03-08,Forward,2021-07-07,Free,"Manchester,",England,6ft 1in,185.0,,
-87739,Corey Taylor,1997-09-23,Midfielder,2021-07-01,Unknown,"Birmingham, England",England,5ft 6in,168.0,,
+87739,Corey Taylor,1997-09-23,Forward,2021-07-01,Unknown,"Birmingham, England",England,5ft 6in,168.0,,
 134764,Jamie Timlin,,Forward,,,England,England,,,,
 40847,James Vaughan,1988-07-14,Forward,,,Birmingham,England,5ft 9in,175.0,12st 9lb,80.27
 111844,Danny Walker-Rice,2000-11-10,Forward,2021-06-12,Free,,England,5ft 6in,168.0,,
@@ -259,7 +259,7 @@ player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,na
 53112,Liam Palmer,1991-09-19,Midfielder,2010-01-01,,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,,,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,2022-07-01,Free,"Liverpool, England",Wales,5ft 11in,180.0,,
-46484,Lucas Akins,1989-02-25,Forward,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
+46484,Lucas Akins,1989-02-25,Midfielder,2022-01-20,Free,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
 49716,Jose Baxter,1992-02-07,Forward,,,Bootle,England,5ft 10in,178.0,11st 6lb,72.56
 62991,Ryan Brunt,1993-05-26,Forward,2020-10-09,Free,Birmingham,England,6ft 1in,185.0,,
 40756,David Buchanan,1986-05-06,Defender,,,Rochdale,England,5ft 8in,173.0,10st 8lb,67.12
