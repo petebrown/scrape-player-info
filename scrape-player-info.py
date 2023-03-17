@@ -97,7 +97,7 @@ def add_position(player_id):
     return position
 
 def insert_manual_updates(df):
-    updates = pd.read_csv("./manual_updates.csv", parse_dates=["player_dob", "date_signed"])
+    updates = pd.read_csv("./manual_updates.csv", parse_dates=["player_dob"])
 
     df.player_id = df.player_id.astype(int)
     df = df[~df.player_id.isin(updates.player_id)]
