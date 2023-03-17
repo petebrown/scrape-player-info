@@ -128,7 +128,7 @@ def main():
     df["weight_st"] = df.weight.str.split(" \(").str[0]
     df["weight_kg"] = df.weight.str.split(" \(").str[1].str.split("kg").str[0].astype("float")
 
-    cols_to_keep = ["player_id", "real_name", "player_dob", "player_position", "date_signed", "fee", "place_of_birth", "nationality", "height_ft", "height_cm", "weight_st", "weight_kg"]
+    cols_to_keep = ["player_id", "real_name", "player_dob", "player_position", "place_of_birth", "nationality", "height_ft", "height_cm", "weight_st", "weight_kg"]
     df = df[cols_to_keep]
 
     df = insert_manual_updates(df)

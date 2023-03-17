@@ -1,5 +1,5 @@
-player_id,real_name,player_dob,player_position,date_signed,fee,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
-24422,Seyni N'Diaye,1973-06-01,Forward,,,Dakar,Senegal,,,,
-24078,Perry Taylor,1981-01-29,Forward,,,Birkenhead,England,,,,
-94139,Sam Ilesanmi,1998-07-13,Forward,2017-07-14,,,England,,,,
-102630,Callum Lucy,1998-11-09,Midfielder,,,,England,,,,
+player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
+24422,Seyni N'Diaye,1973-06-01,Forward,Dakar,Senegal,,,,
+24078,Perry Taylor,1981-01-29,Forward,Birkenhead,England,,,,
+94139,Sam Ilesanmi,1998-07-13,Forward,,England,,,,
+102630,Callum Lucy,1998-11-09,Midfielder,,England,,,,
