@@ -242,7 +242,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51399,Ash Taylor,1990-09-02,Defender,England,Wales,6ft,183.0,12st,76.19
 43751,Joe Thompson,1989-03-05,Midfielder,Rochdale,England,6ft,183.0,9st 6lb,59.86
 73122,Brad Watkins,1994-09-11,Goalkeeper,,England,,,,
-55423,David Amoo,1991-04-13,Forward,England,England,5ft 10in,178.0,12st 2lb,77.1
+55423,David Amoo,1991-04-13,Midfielder,England,England,5ft 10in,178.0,12st 2lb,77.1
 47926,Paul Black,1990-01-18,Defender,,England,6ft,183.0,12st 11lb,81.18
 55158,Paul Corry,1991-02-03,Midfielder,,Ireland,,,,
 68398,Donervon Daniels,1993-11-24,Defender,Montserrat,Montserrat,6ft 1in,185.0,,
@@ -256,7 +256,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 64219,Sean McGinty,1993-08-11,Defender,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Midfielder,Glasgow,Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Midfielder,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
 46484,Lucas Akins,1989-02-25,Forward,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
