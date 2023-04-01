@@ -132,7 +132,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 75869,Josh Ginnelly,1997-03-24,Forward,Coventry,England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Midfielder,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1996-10-28,Midfielder,England,England,,,,
+89457,Josh Kay,1996-10-28,Forward,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,Republic of Ireland,Ireland,,,,
@@ -256,7 +256,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
 64219,Sean McGinty,1993-08-11,Defender,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
-58154,Michael O'Halloran,1991-01-06,Forward,Glasgow,Scotland,5ft 11in,180.0,,
+58154,Michael O'Halloran,1991-01-06,Midfielder,Glasgow,Scotland,5ft 11in,180.0,,
 53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
@@ -309,7 +309,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 20578,Gareth Edds,1981-02-03,Midfielder,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
 53588,Ben Gordon,1991-03-02,Defender,Bradford,England,5ft 9in,175.0,11st 8lb,73.47
 50869,Gavin Gunning,1991-01-26,Defender,Republic of Ireland,Ireland,6ft 1in,185.0,13st 2lb,83.45
-47194,Shaleum Logan,1988-01-29,Midfielder,England,England,5ft 8in,173.0,12st 6lb,78.91
+47194,Shaleum Logan,1988-01-29,Defender,England,England,5ft 8in,173.0,12st 6lb,78.91
 50951,Josh Macauley,1991-03-02,Forward,,England,,,,
 37093,David Martin,1986-01-22,Goalkeeper,Romford,England,6ft 1in,185.0,13st 9lb,86.62
 21233,Chris McCready,1981-07-05,Defender,Chester,England,6ft 1in,185.0,12st 2lb,77.1
