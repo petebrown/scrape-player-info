@@ -256,7 +256,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
 64219,Sean McGinty,1993-08-11,Defender,,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
-58154,Michael O'Halloran,1991-01-06,Midfielder,Glasgow,Scotland,5ft 11in,180.0,,
+58154,Michael O'Halloran,1991-01-06,Forward,Glasgow,Scotland,5ft 11in,180.0,,
 53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
@@ -328,7 +328,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
 21689,Anthony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
-51215,Danny Mayor,1990-10-18,Forward,England,England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Midfielder,England,England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
