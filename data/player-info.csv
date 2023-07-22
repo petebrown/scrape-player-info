@@ -88,7 +88,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 81732,Rushian Hepburn-Murphy,1998-08-28,Forward,Birmingham,England,,,,
 63609,Connor Jennings,1991-10-29,Forward,Manchester,England,6ft,183.0,,
 97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
-69031,Luke McCullough,1994-02-15,Defender,Portadown,Northern Ireland,,,,
+69031,Luke McCullough,1994-02-15,Midfielder,Portadown,Northern Ireland,,,,
 70542,Paul Mullin,1994-11-06,Forward,Liverpool,England,5ft 10in,178.0,11st 2lb,70.75
 128731,Harrison Musuamba,2002-05-20,Defender,Liverpool,England,,,,
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
@@ -184,7 +184,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 69047,Ben Davies,1995-08-11,Defender,Barrow,England,6ft 1in,185.0,,
 74169,Janoi Donacien,1993-11-03,Defender,Castries,St. Lucia,6ft,183.0,,
 51374,George Donnelly,1988-05-28,Forward,,England,,,,
-57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
+57274,Rory Donnelly,1992-02-18,Midfielder,,Northern Ireland,6ft 2in,188.0,,
 45280,Adam Dugdale,1987-09-12,Defender,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
 67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
@@ -234,7 +234,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 72078,Ben Maher,1995-09-28,Midfielder,Wales,England,,,,
 36254,Jim McNulty,1985-02-13,Defender,Liverpool,Scotland,6ft,183.0,12st 1lb,76.64
 65749,Jason Mooney,1989-02-26,Goalkeeper,,Northern Ireland,6ft 9in,206.0,,
-72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
+72692,Callum Morris,1992-09-01,Forward,,England,,,,
 32335,Jon Otsemobor,1983-03-23,Defender,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
 70729,Matthew Pennington,1994-10-06,Defender,Warrington,England,6ft 1in,185.0,,
 73901,Kristoffer Peterson,1994-11-28,Forward,"Gothenburg, Sweden",Sweden,,,,
