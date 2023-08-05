@@ -11,7 +11,7 @@ def construct_url(team_id, season_id):
 
 def get_season_urls():
     team_id = 2598
-    season_id = 155
+    season_id = 156
 
     url = construct_url(team_id, season_id)
     r = requests.get(url)
