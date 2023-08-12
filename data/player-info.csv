@@ -8,7 +8,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 71462,Paul Lewis,1994-12-17,Midfielder,Liverpool,England,6ft 1in,185.0,,
-125105,Reece McAlear,2002-02-12,Midfielder,Scotland,Scotland,,,,
+125105,Reece McAlear,2002-02-12,Defender,Scotland,Scotland,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,Edgware,England,6ft 3in,191.0,,
 104921,Christopher Merrie,1998-11-02,Midfielder,Liverpool,England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,Hereford,England,5ft 10in,178.0,,
@@ -125,7 +125,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,,England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Midfielder,England,England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Forward,England,England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
@@ -137,7 +137,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 75869,Josh Ginnelly,1997-03-24,Forward,Coventry,England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Forward,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1996-10-28,Midfielder,England,England,,,,
+89457,Josh Kay,1997-01-30,Midfielder,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,Republic of Ireland,Ireland,,,,
@@ -151,7 +151,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Forward,,England,,,,
 102632,Udoyen Akpan,,Midfielder,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
