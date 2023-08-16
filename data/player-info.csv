@@ -1,6 +1,6 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
 76807,Tom Davies,1992-04-18,Defender,Warrington,England,5ft 10in,178.0,,
-70469,Kristian Dennis,1990-03-12,Forward,,England,,,,
+70469,Kristian Dennis,1990-03-12,Midfielder,,England,,,,
 101331,Josh Hawkes,1999-01-28,Forward,Stockton-on-Tees,England,,,,
 58504,Kane Hemmings,1991-04-08,Forward,England,England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,,Scotland,,,,
@@ -16,7 +16,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 59417,Luke Norris,1993-06-03,Forward,Stevenage,England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 100535,Harvey Saunders,1997-07-20,Forward,Wolverhampton,England,,,,
-165326,Samuel Taylor,2003-12-23,Midfielder,,England,,,,
+165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
@@ -53,7 +53,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
-51474,Callum McManaman,1991-04-25,Forward,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
+51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
 114877,Joshua McPake,2001-08-31,Forward,Scotland,Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-30,Midfielder,,England,,,,
@@ -151,7 +151,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Forward,,England,,,,
 102632,Udoyen Akpan,,Midfielder,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
