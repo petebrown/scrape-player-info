@@ -4,14 +4,15 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 101331,Josh Hawkes,1999-01-28,Forward,Stockton-on-Tees,England,,,,
 58504,Kane Hemmings,1991-04-08,Forward,England,England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,,Scotland,,,,
+144033,Rhys Hughes,2001-09-21,Midfielder,,Wales,,,,
 63609,Connor Jennings,1991-10-29,Midfielder,Manchester,England,6ft,183.0,,
 120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 71462,Paul Lewis,1994-12-17,Midfielder,Liverpool,England,6ft 1in,185.0,,
 125105,Reece McAlear,2002-02-12,Defender,Scotland,Scotland,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,Edgware,England,6ft 3in,191.0,,
-104921,Christopher Merrie,1998-11-02,Midfielder,Liverpool,England,,,,
-68138,Kieron Morris,1994-06-03,Midfielder,Hereford,England,5ft 10in,178.0,,
+104921,Christopher Merrie,1998-11-02,Defender,Liverpool,England,,,,
+68138,Kieron Morris,1994-06-03,Forward,Hereford,England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
 59417,Luke Norris,1993-06-03,Forward,Stevenage,England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
@@ -31,7 +32,6 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
-144033,Rhys Hughes,2001-09-21,Midfielder,,Wales,,,,
 108098,Kyle Jameson,1998-09-11,Defender,,England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
@@ -39,7 +39,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
 133373,Luke Robinson,2001-11-20,Defender,Birkenhead,Scotland,,,,
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
-144533,Jay Turner-Cook,2003-12-31,Midfielder,,England,,,,
+144533,Jay Turner-Cook,2003-12-31,Forward,,England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
 72487,Emmanuel Dieseruvwe,1994-01-05,Forward,,England,,,,
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
@@ -85,7 +85,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125058,Jack Young,2000-10-21,Midfielder,England,England,,,,
 128728,Joe Blackham,2001-09-10,Midfielder,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,,England,6ft 1in,185.0,,
-60564,Jake Caprice,1992-11-11,Midfielder,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
+60564,Jake Caprice,1992-11-11,Defender,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
 70228,Aaron Chapman,1990-05-29,Goalkeeper,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
@@ -135,7 +135,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80683,Mitch Duggan,1997-03-20,Defender,,England,,,,
 80291,Jack Dunn,1994-11-19,Forward,,England,,,,
 75869,Josh Ginnelly,1997-03-24,Forward,Coventry,England,5ft 8in,173.0,,
-80289,Devarn Green,1996-08-26,Forward,England,England,,,,
+80289,Devarn Green,1996-08-26,Midfielder,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
 89457,Josh Kay,1997-01-30,Midfielder,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,Liverpool,England,,,,
@@ -151,7 +151,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Forward,,England,,,,
 102632,Udoyen Akpan,,Midfielder,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
