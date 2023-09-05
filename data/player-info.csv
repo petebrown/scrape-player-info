@@ -23,7 +23,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
-133368,Ethan Bristow,2001-11-27,Defender,,England,,,,
+133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",England,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
@@ -261,7 +261,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 53233,Jake Jervis,1991-09-17,Forward,,England,6ft 3in,191.0,12st 9lb,80.27
 47242,Michael Kay,1989-09-12,Defender,,England,6ft,183.0,13st 3lb,83.9
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
-64219,Sean McGinty,1993-08-11,Defender,,Ireland,,,,
+64219,Sean McGinty,1993-08-11,Defender,England,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Forward,Glasgow,Scotland,5ft 11in,180.0,,
 53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
