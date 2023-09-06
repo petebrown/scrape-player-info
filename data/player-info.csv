@@ -1,4 +1,5 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
+136092,Robert Apter,2003-01-16,Forward,England,Scotland,,,,
 76807,Tom Davies,1992-04-18,Defender,Warrington,England,5ft 10in,178.0,,
 181422,Mikey Davies,,Defender,England,England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,,England,,,,
@@ -16,17 +17,18 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 68138,Kieron Morris,1994-06-03,Midfielder,Hereford,England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
 59417,Luke Norris,1993-06-03,Forward,Stevenage,England,5ft 11in,180.0,13st 5lb,84.81
+125532,James Norris,2003-04-04,Defender,Liverpool,England,,,,
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 100535,Harvey Saunders,1997-07-20,Forward,Wolverhampton,England,,,,
 165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
-69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
+69329,Brad Walker,1995-04-25,Defender,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",England,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
-104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
+104579,Logan Chalmers,2000-03-24,Midfielder,Scotland,Scotland,,,,
 103555,Joshua Dacres-Cogley,1996-03-12,Midfielder,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
@@ -84,7 +86,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 40847,James Vaughan,1988-07-14,Forward,Birmingham,England,5ft 9in,175.0,12st 9lb,80.27
 111844,Danny Walker-Rice,2000-11-10,Forward,,England,5ft 6in,168.0,,
 70918,Kaiyne Woolery,1995-01-11,Forward,"London, England",England,,,,
-125058,Jack Young,2000-10-21,Forward,England,England,,,,
+125058,Jack Young,2000-10-21,Midfielder,England,England,,,,
 128728,Joe Blackham,2001-09-10,Midfielder,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,,England,6ft 1in,185.0,,
 60564,Jake Caprice,1992-11-11,Midfielder,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
@@ -151,7 +153,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 77908,Drissa Traore,1992-03-25,Midfielder,,Ivory Coast,5ft 8in,173.0,,
 49717,James Wallace,1991-12-19,Midfielder,Liverpool,England,5ft 10in,178.0,11st 5lb,72.11
 80602,George Waring,1994-12-02,Forward,,England,,,,
-102632,Udoyen Akpan,,Midfielder,,England,,,,
+102632,Udoyen Akpan,1999-02-10,Forward,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
 78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
