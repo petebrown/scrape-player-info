@@ -7,7 +7,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 58504,Kane Hemmings,1991-04-08,Forward,England,England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,,Scotland,,,,
 144033,Rhys Hughes,2001-09-21,Midfielder,,Wales,,,,
-63609,Connor Jennings,1991-10-29,Forward,Manchester,England,6ft,183.0,,
+63609,Connor Jennings,1991-10-29,Midfielder,Manchester,England,6ft,183.0,,
 120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 71462,Paul Lewis,1994-12-17,Midfielder,Liverpool,England,6ft 1in,185.0,,
@@ -21,7 +21,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 100535,Harvey Saunders,1997-07-20,Forward,Wolverhampton,England,,,,
-165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
+165326,Samuel Taylor,2003-12-23,Midfielder,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 95984,Connor Wood,1996-07-17,Defender,England,England,,,,
