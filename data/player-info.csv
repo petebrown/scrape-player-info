@@ -53,7 +53,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
-44029,Sam Foley,1986-10-17,Midfielder,,Ireland,6ft,183.0,10st 12lb,68.94
+44029,Sam Foley,1986-10-17,Defender,,Ireland,6ft,183.0,10st 12lb,68.94
 128556,Kyle Hayde,2001-09-25,Defender,England,England,,,,
 126479,Ben Jones,2000-11-29,Goalkeeper,England,England,,,,
 146008,Ethan Jones,2004-10-16,Defender,,England,,,,
@@ -159,7 +159,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Defender,,England,,,,
 102632,Udoyen Akpan,1999-02-10,Forward,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
