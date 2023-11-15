@@ -18,14 +18,14 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 104921,Christopher Merrie,1998-11-02,Midfielder,Liverpool,England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,Hereford,England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
-125532,James Norris,2003-04-04,Defender,Liverpool,England,,,,
+125532,James Norris,2003-04-04,Midfielder,Liverpool,England,,,,
 59417,Luke Norris,1993-06-03,Forward,Stevenage,England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 183773,Conor Robson,,Goalkeeper,,England,,,,
 100535,Harvey Saunders,1997-07-20,Midfielder,Wolverhampton,England,,,,
 124902,Joseph Starbuck,2002-08-03,Midfielder,,England,,,,
-165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
+165326,Samuel Taylor,2003-12-23,Midfielder,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 95984,Connor Wood,1996-07-17,Defender,England,England,,,,
@@ -112,7 +112,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
-92840,Kane Wilson,2000-03-11,Midfielder,,England,,,,
+92840,Kane Wilson,2000-03-11,Defender,,England,,,,
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
 54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
@@ -159,7 +159,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Defender,,England,,,,
 102632,Udoyen Akpan,1999-02-10,Forward,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
