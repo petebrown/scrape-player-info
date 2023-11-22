@@ -74,7 +74,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 46623,Mark Ellis,1988-09-30,Defender,Plymouth,England,6ft 2in,188.0,12st 4lb,78.0
 88451,Morgan Ferrier,1994-11-15,Forward,Newham,England,6ft 1in,185.0,,
 128732,Ethan Gouldbourne,2000-10-10,Midfielder,Liverpool,England,,,,
-75196,Otis Khan,1995-09-05,Midfielder,,Pakistan,,,,
+75196,Otis Khan,1995-09-05,Forward,,Pakistan,,,,
 104997,Nya Kirby,2000-01-31,Midfielder,Islington,England,5ft 7in,170.0,,
 56548,Danny Lloyd,1991-12-03,Midfielder,,England,,,,
 75406,Emmanuel Monthe,1995-01-26,Defender,"Douala, Cameroon",Cameroon,6ft 4in,193.0,,
@@ -133,7 +133,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,,England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Midfielder,England,England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Forward,England,England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
@@ -199,7 +199,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51374,George Donnelly,1988-05-28,Forward,,England,,,,
 57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 45280,Adam Dugdale,1987-09-12,Defender,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
-67060,Matthias Fanimo,1994-01-28,Midfielder,,England,,,,
+67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
 53388,Danny Gardner,1990-04-05,Forward,Manchester,England,6ft 1in,185.0,,
