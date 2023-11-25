@@ -61,13 +61,13 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
-51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
+51474,Callum McManaman,1991-04-25,Forward,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
 114877,Joshua McPake,2001-08-31,Forward,Scotland,Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-30,Midfielder,,England,,,,
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
 144980,Lewis Warrington,2002-10-10,Midfielder,,England,,,,
-67179,Ryan Watson,1993-07-07,Forward,Crewe,England,6ft 1in,185.0,,
+67179,Ryan Watson,1993-07-07,Midfielder,Crewe,England,6ft 1in,185.0,,
 55846,Oliver Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
 46423,Ali Crawford,1991-07-30,Midfielder,Lanark,Scotland,5ft 7in,170.0,,
 41823,Scott Davies,1987-02-23,Goalkeeper,Blackpool,England,6ft,183.0,11st,69.84
@@ -100,7 +100,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
 99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
 81732,Rushian Hepburn-Murphy,1998-08-28,Forward,Birmingham,England,,,,
-97829,Jacob Maddox,1998-11-03,Forward,Bristol,England,,,,
+97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
 69031,Luke McCullough,1994-02-15,Defender,Portadown,Northern Ireland,,,,
 70542,Paul Mullin,1994-11-06,Forward,Liverpool,England,5ft 10in,178.0,11st 2lb,70.75
 128731,Harrison Musuamba,2002-05-20,Defender,Liverpool,England,,,,
@@ -159,7 +159,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80602,George Waring,1994-12-02,Defender,,England,,,,
 102632,Udoyen Akpan,1999-02-10,Forward,,England,,,,
 51974,Louis Almond,1992-01-05,Forward,England,England,5ft 11in,180.0,12st,76.19
-78063,Aaron Collins,1997-05-27,Midfielder,"Newport, Wales",Wales,,,,
+78063,Aaron Collins,1997-05-27,Forward,"Newport, Wales",Wales,,,,
 102626,Tom Coughan,,Midfielder,,England,,,,
 66040,Adam Dawson,1992-10-05,Midfielder,,England,,,,
 102625,James Divine,,Midfielder,,England,,,,
@@ -199,7 +199,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51374,George Donnelly,1988-05-28,Forward,,England,,,,
 57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 45280,Adam Dugdale,1987-09-12,Defender,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
-67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
+67060,Matthias Fanimo,1994-01-28,Midfielder,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
 53388,Danny Gardner,1990-04-05,Midfielder,Manchester,England,6ft 1in,185.0,,
