@@ -68,7 +68,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
 144980,Lewis Warrington,2002-10-10,Midfielder,,England,,,,
 67179,Ryan Watson,1993-07-07,Midfielder,Crewe,England,6ft 1in,185.0,,
-55846,Oliver Banks,1992-09-21,Forward,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
+55846,Oliver Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
 46423,Ali Crawford,1991-07-30,Midfielder,Lanark,Scotland,5ft 7in,170.0,,
 41823,Scott Davies,1987-02-23,Goalkeeper,Blackpool,England,6ft,183.0,11st,69.84
 46623,Mark Ellis,1988-09-30,Defender,Plymouth,England,6ft 2in,188.0,12st 4lb,78.0
@@ -97,7 +97,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 70228,Aaron Chapman,1990-05-29,Goalkeeper,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
-107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
+107023,Morgan Feeney,1999-02-08,Midfielder,Bootle,England,6ft 2in,188.0,,
 99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
 81732,Rushian Hepburn-Murphy,1998-08-28,Forward,Birmingham,England,,,,
 97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
@@ -130,7 +130,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 78694,Dylan Mottley Henry,1997-08-02,Midfielder,"Leeds, England",England,,,,
 51911,James Norwood,1990-10-24,Forward,England,England,5ft 9in,175.0,,
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
-90268,Jonny Smith,1997-07-28,Forward,England,England,,,,
+90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,,England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
 86076,Ben Tollitt,1994-11-30,Forward,England,England,6ft 2in,188.0,,
@@ -269,7 +269,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
 64219,Sean McGinty,1993-08-11,Defender,England,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
-58154,Michael O'Halloran,1991-01-06,Forward,Glasgow,Scotland,5ft 11in,180.0,,
+58154,Michael O'Halloran,1991-01-06,Midfielder,Glasgow,Scotland,5ft 11in,180.0,,
 53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
