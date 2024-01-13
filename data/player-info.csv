@@ -1,5 +1,5 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
-136092,Rob Apter,2003-01-16,Forward,England,Scotland,,,,
+136092,Rob Apter,2003-01-16,Midfielder,England,Scotland,,,,
 137278,Jean Belehouan,2000-09-01,Defender,,France,,,,
 76807,Tom Davies,1992-04-18,Defender,Warrington,England,5ft 10in,178.0,,
 181422,Mikey Davies,,Defender,England,England,,,,
@@ -97,7 +97,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 70228,Aaron Chapman,1990-05-29,Goalkeeper,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
-107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
+107023,Morgan Feeney,1999-02-08,Midfielder,Bootle,England,6ft 2in,188.0,,
 99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
 81732,Rushian Hepburn-Murphy,1998-08-28,Forward,Birmingham,England,,,,
 97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
@@ -236,7 +236,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 73366,Antonie Boland,1994-12-30,Defender,,England,,,,
 46696,Junior Brown,1989-05-07,Defender,,England,5ft 9in,175.0,10st 10lb,68.03
 64444,Jake Cassidy,1993-02-09,Forward,,Wales,,,,
-60033,Ryan Edwards,1993-11-17,Midfielder,Singapore,Australia,5ft 7in,170.0,,
+60033,Ryan Edwards,1993-11-17,Forward,Singapore,Australia,5ft 7in,170.0,,
 13823,Stephen Foster,1980-09-18,Defender,Mansfield,England,5ft 11in,180.0,12st 4lb,78.0
 14177,Ian Goodison,1972-11-21,Defender,"Montego Bay, Jamaica",Jamaica,6ft 1in,185.0,13st 8lb,86.17
 52014,Tom Hateley,1989-09-12,Midfielder,"Monte Carlo, England",England,,,,
@@ -270,7 +270,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 64219,Sean McGinty,1993-08-11,Defender,England,Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Midfielder,Glasgow,Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Midfielder,Worksop,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Defender,Worksop,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
 46484,Lucas Akins,1989-02-25,Forward,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
