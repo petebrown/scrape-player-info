@@ -12,7 +12,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 63609,Connor Jennings,1991-10-29,Forward,Manchester,England,6ft,183.0,,
 120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
-71462,Paul Lewis,1994-12-17,Midfielder,Liverpool,England,6ft 1in,185.0,,
+71462,Paul Lewis,1994-12-17,Forward,Liverpool,England,6ft 1in,185.0,,
 125105,Reece McAlear,2002-02-12,Midfielder,Scotland,Scotland,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,Edgware,England,6ft 3in,191.0,,
 104921,Christopher Merrie,1998-11-02,Midfielder,Liverpool,England,,,,
@@ -37,7 +37,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 103555,Joshua Dacres-Cogley,1996-03-12,Midfielder,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
-121903,Paul Glatzel,2001-02-20,Forward,,England,,,,
+121903,Paul Glatzel,2001-02-20,Midfielder,,England,,,,
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
 108098,Kyle Jameson,1998-09-11,Defender,,England,,,,
@@ -61,7 +61,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
-51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
+51474,Callum McManaman,1991-04-25,Forward,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
 114877,Josh McPake,2001-08-31,Midfielder,Scotland,Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
@@ -99,7 +99,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
 107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
 99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
-81732,Rushian Hepburn-Murphy,1998-08-28,Forward,Birmingham,England,,,,
+81732,Rushian Hepburn-Murphy,1998-08-28,Midfielder,Birmingham,England,,,,
 97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
 69031,Luke McCullough,1994-02-15,Defender,Portadown,Northern Ireland,,,,
 70542,Paul Mullin,1994-11-06,Forward,Liverpool,England,5ft 10in,178.0,11st 2lb,70.75
@@ -128,7 +128,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
 41710,Ishmael Miller,1987-03-05,Forward,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
 78694,Dylan Mottley Henry,1997-08-02,Midfielder,"Leeds, England",England,,,,
-51911,James Norwood,1990-10-24,Forward,England,England,5ft 9in,175.0,,
+51911,James Norwood,1990-09-05,Forward,England,England,5ft 9in,175.0,,
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 63703,Cole Stockton,1994-03-13,Forward,,England,,,,
