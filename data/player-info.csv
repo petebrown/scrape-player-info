@@ -33,7 +33,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
-104579,Logan Chalmers,2000-03-24,Midfielder,Scotland,Scotland,,,,
+104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
 103555,Joshua Dacres-Cogley,1996-03-12,Midfielder,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
@@ -236,10 +236,10 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 73366,Antonie Boland,1994-12-30,Defender,,England,,,,
 46696,Junior Brown,1989-05-07,Defender,,England,5ft 9in,175.0,10st 10lb,68.03
 64444,Jake Cassidy,1993-02-09,Forward,,Wales,,,,
-60033,Ryan Edwards,1993-11-17,Midfielder,Singapore,Australia,5ft 7in,170.0,,
+60033,Ryan Edwards,1993-11-17,Forward,Singapore,Australia,5ft 7in,170.0,,
 13823,Stephen Foster,1980-09-18,Defender,Mansfield,England,5ft 11in,180.0,12st 4lb,78.0
 14177,Ian Goodison,1972-11-21,Defender,"Montego Bay, Jamaica",Jamaica,6ft 1in,185.0,13st 8lb,86.17
-52014,Tom Hateley,1989-09-12,Midfielder,"Monte Carlo, England",England,,,,
+52014,Tom Hateley,1989-09-12,Midfielder,,England,,,,
 40982,Evan Horwood,1986-03-10,Defender,Hartlepool,England,6ft,183.0,11st 9lb,73.92
 57204,Andrai Jones,1992-01-01,Defender,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
 58113,Matty Kennedy,1994-11-01,Midfielder,"Belfast, Northern Ireland",Northern Ireland,5ft 9in,175.0,,
@@ -339,7 +339,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 9758,Chris Greenacre,1977-12-23,Forward,Wakefield,England,5ft 11in,180.0,12st 8lb,79.82
 44093,Paul Henry,1988-01-28,Midfielder,Liverpool,England,5ft 9in,175.0,11st 5lb,72.11
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
-21689,Anthony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
+21689,Antony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
 51215,Danny Mayor,1990-10-18,Midfielder,England,England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
