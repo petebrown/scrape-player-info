@@ -23,7 +23,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
-100535,Harvey Saunders,1997-07-20,Midfielder,Wolverhampton,England,,,,
+100535,Harvey Saunders,1997-07-20,Forward,Wolverhampton,England,,,,
 124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
 165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
@@ -37,7 +37,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 103555,Joshua Dacres-Cogley,1996-03-12,Midfielder,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
-121903,Paul Glatzel,2001-02-20,Forward,,England,,,,
+121903,Paul Glatzel,2001-02-20,Midfielder,,England,,,,
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
 108098,Kyle Jameson,1998-09-11,Defender,,England,,,,
@@ -93,7 +93,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125058,Jack Young,2000-10-21,Midfielder,England,England,,,,
 128728,Joe Blackham,2001-09-10,Midfielder,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,,England,6ft 1in,185.0,,
-60564,Jake Caprice,1992-11-11,Midfielder,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
+60564,Jake Caprice,1992-11-11,Defender,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
 70228,Aaron Chapman,1990-05-29,Goalkeeper,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
@@ -341,7 +341,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
 21689,Antony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
-51215,Danny Mayor,1990-10-18,Midfielder,England,England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Forward,England,England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
