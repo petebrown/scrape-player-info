@@ -30,10 +30,10 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 95984,Connor Wood,1996-07-17,Defender,England,England,,,,
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
-133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
+133368,Ethan Bristow,2001-11-27,Midfielder,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
-104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
+104579,Logan Chalmers,2000-03-24,Midfielder,Scotland,Scotland,,,,
 103555,Joshua Dacres-Cogley,1996-03-12,Midfielder,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
@@ -273,7 +273,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 53112,Liam Palmer,1991-09-19,Midfielder,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
-46484,Lucas Akins,1989-02-25,Forward,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
+46484,Lucas Akins,1989-02-25,Defender,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
 49716,Jose Baxter,1992-02-07,Forward,Bootle,England,5ft 10in,178.0,11st 6lb,72.56
 62991,Ryan Brunt,1993-05-26,Forward,Birmingham,England,6ft 1in,185.0,,
 40756,David Buchanan,1986-05-06,Defender,Rochdale,England,5ft 8in,173.0,10st 8lb,67.12
