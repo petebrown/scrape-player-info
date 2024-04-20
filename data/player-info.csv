@@ -1,5 +1,5 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
-136092,Rob Apter,2003-01-16,Forward,England,Scotland,,,,
+136092,Rob Apter,2003-01-16,Midfielder,England,Scotland,,,,
 137278,Jean Belehouan,2000-09-01,Defender,,France,,,,
 76807,Tom Davies,1992-04-18,Defender,Warrington,England,5ft 10in,178.0,,
 181422,Mikey Davies,,Defender,England,England,,,,
@@ -9,7 +9,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 93064,Regan Hendry,1998-01-21,Midfielder,,Scotland,,,,
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
 144033,Rhys Hughes,2001-09-21,Midfielder,,Wales,,,,
-63609,Connor Jennings,1991-10-29,Midfielder,Manchester,England,6ft,183.0,,
+63609,Connor Jennings,1991-10-29,Forward,Manchester,England,6ft,183.0,,
 120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
@@ -24,7 +24,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
-100535,Harvey Saunders,1997-07-20,Forward,Wolverhampton,England,,,,
+100535,Harvey Saunders,1997-07-20,Midfielder,Wolverhampton,England,,,,
 124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
 165326,Samuel Taylor,2003-12-23,Forward,,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,,England,,,,
@@ -54,7 +54,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
-44029,Sam Foley,1986-10-17,Midfielder,,Ireland,6ft,183.0,10st 12lb,68.94
+44029,Sam Foley,1986-10-17,Forward,,Ireland,6ft,183.0,10st 12lb,68.94
 128556,Kyle Hayde,2001-09-25,Defender,England,England,,,,
 126479,Ben Jones,2000-11-29,Goalkeeper,England,England,,,,
 146008,Ethan Jones,2004-10-16,Defender,,England,,,,
