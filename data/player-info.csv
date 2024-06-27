@@ -1,5 +1,5 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
-136092,Rob Apter,2003-01-16,Midfielder,England,Scotland,,,,
+136092,Rob Apter,2003-01-16,Forward,England,Scotland,,,,
 137278,Jean Belehouan,2000-09-01,Defender,,France,,,,
 76807,Tom Davies,1992-04-18,Defender,Warrington,England,5ft 10in,178.0,,
 181422,Mikey Davies,,Defender,England,England,,,,
@@ -31,7 +31,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 69329,Brad Walker,1995-04-25,Midfielder,Billingham,England,6ft 1in,185.0,12st 8lb,79.82
 95984,Connor Wood,1996-07-17,Defender,England,England,,,,
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
-133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",England,,,,
+133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
@@ -63,14 +63,14 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
 51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
-114877,Josh McPake,2001-08-31,Midfielder,Scotland,Scotland,,,,
+114877,Josh McPake,2001-08-31,Forward,Scotland,Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
 144980,Lewis Warrington,2002-10-10,Midfielder,,England,,,,
 67179,Ryan Watson,1993-07-07,Midfielder,Crewe,England,6ft 1in,185.0,,
 55846,Oliver Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
-87739,Corey Blackett-Taylor,1997-09-23,Midfielder,"Birmingham, England",England,5ft 6in,168.0,,
+87739,Corey Blackett-Taylor,1997-09-23,Forward,"Birmingham, England",England,5ft 6in,168.0,,
 46423,Ali Crawford,1991-07-30,Midfielder,Lanark,Scotland,5ft 7in,170.0,,
 56548,Danny Lloyd,1991-12-03,Midfielder,,England,,,,
 41823,Scott Davies,1987-02-23,Goalkeeper,Blackpool,England,6ft,183.0,11st,69.84
@@ -258,11 +258,11 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 43751,Joe Thompson,1989-03-05,Midfielder,Rochdale,England,6ft,183.0,9st 6lb,59.86
 73122,Brad Watkins,1994-09-11,Goalkeeper,,England,,,,
 55423,David Amoo,1991-04-13,Forward,England,England,5ft 10in,178.0,12st 2lb,77.1
-54425,Ben Gibson,1993-01-15,Defender,England,England,6ft 1in,185.0,12st 3lb,77.55
 47926,Paul Black,1990-01-18,Defender,,England,6ft,183.0,12st 11lb,81.18
 55158,Paul Corry,1991-02-03,Midfielder,,Ireland,,,,
 68398,Donervon Daniels,1993-11-24,Defender,"Plymouth, England",Montserrat,6ft 1in,185.0,,
 52660,Nathan Eccleston,1990-12-30,Forward,"Manchester, England",England,5ft 10in,178.0,10st 2lb,64.4
+54425,Ben Gibson,1993-01-15,Defender,England,England,6ft 1in,185.0,12st 3lb,77.55
 55925,Roman Golobart,1992-03-21,Defender,"Barcelona, Spain",Spain,,,,
 26297,Daniel Robert Harrison,1982-11-04,Midfielder,Liverpool,England,5ft 11in,180.0,12st 4lb,78.0
 53233,Jake Jervis,1991-09-17,Forward,,England,6ft 3in,191.0,12st 9lb,80.27
@@ -353,8 +353,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 27015,Shane Cansdell-Sherriff,1982-11-10,Defender,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
 1638,Kevin Cooper,1975-02-08,Midfielder,Derby,England,5ft 8in,173.0,10st 7lb,66.67
 41795,Steve Davies,1987-12-29,Forward,Liverpool,England,6ft 1in,185.0,11st 6lb,72.56
-46270,Shane McWeeney,1989-10-14,Goalkeeper,,,,,,
 43715,Michael Jones,1987-08-15,Midfielder,Birkenhead,England,6ft,183.0,12st 2lb,77.1
+46270,Shane McWeeney,1989-10-14,Goalkeeper,,,,,,
 5675,John Mullin,1975-08-11,Midfielder,Bury,England,6ft,183.0,11st,69.84
 13755,Robert Stockdale,1979-11-30,Defender,Redcar,Scotland,5ft 9in,175.0,12st 2lb,77.1
 7820,Gareth Taylor,1973-02-25,Forward,Weston-super-Mare,Wales,6ft 1in,185.0,13st 5lb,84.81
