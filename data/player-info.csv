@@ -34,7 +34,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
-104579,Logan Chalmers,2000-03-24,Forward,Scotland,Scotland,,,,
+104579,Logan Chalmers,2000-03-24,Forward,"Dundee, Scotland",Scotland,,,,
 103555,Josh Dacres-Cogley,1996-03-12,Defender,Coventry,England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
@@ -58,7 +58,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128556,Kyle Hayde,2001-09-25,Defender,England,England,,,,
 126479,Ben Jones,2000-11-29,Goalkeeper,England,England,,,,
 146008,Ethan Jones,2004-10-16,Defender,,England,,,,
-42622,Nat Knight-Percival,1987-03-31,Defender,Enfield,England,6ft,183.0,,
+42622,Nathaniel Knight-Percival,1987-03-31,Midfielder,Enfield,England,6ft,183.0,,
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
@@ -122,7 +122,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 62460,Larnell Cole,1993-03-09,Midfielder,Manchester,England,,,,
 36344,Chris Dagnall,1986-04-15,Forward,Liverpool,England,5ft 8in,173.0,11st 8lb,73.47
 114197,Jay Devine,1999-07-26,Midfielder,,England,,,,
-92850,Shamal George,1998-01-06,Goalkeeper,England,England,,,,
+92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,,,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
 43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
 111843,Nick Long,,Midfielder,,England,,,,
@@ -233,10 +233,10 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50757,Jean-Louis Akpa Akpro,1985-01-04,Forward,Toulouse,France,6ft,183.0,10st 12lb,68.94
 74148,Gboly Ariyibi,1995-01-18,Forward,USA,USA,6ft,183.0,,
 74174,Stephen Arthurworrey,1994-10-15,Defender,,England,,,,
-55556,Chris Atkinson,1992-02-13,Midfielder,,England,6ft,183.0,,
 73366,Antonie Boland,1994-12-30,Defender,,England,,,,
 46696,Junior Brown,1989-05-07,Defender,,England,5ft 9in,175.0,10st 10lb,68.03
 64444,Jake Cassidy,1993-02-09,Forward,,Wales,,,,
+55556,Chris Atkinson,1992-02-13,Midfielder,,England,6ft,183.0,,
 60033,Ryan Edwards,1993-11-17,Midfielder,Singapore,Australia,5ft 7in,170.0,,
 13823,Stephen Foster,1980-09-18,Defender,Mansfield,England,5ft 11in,180.0,12st 4lb,78.0
 14177,Ian Goodison,1972-11-21,Defender,"Montego Bay, Jamaica",Jamaica,6ft 1in,185.0,13st 8lb,86.17
