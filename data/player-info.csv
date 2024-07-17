@@ -142,7 +142,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 111841,James Devine,,Midfielder,,,,,,
 102629,Declan Drysdale,1999-11-14,Defender,Birkenhead,England,,,,
 80683,Mitch Duggan,1997-03-20,Defender,,England,,,,
-80291,Jack Dunn,1994-11-19,Forward,,England,,,,
+80291,Jack Dunn,1994-11-19,Midfielder,,England,,,,
 75869,Josh Ginnelly,1997-03-24,Forward,England,England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Forward,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
@@ -245,7 +245,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 57204,Andrai Jones,1992-01-01,Defender,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
 58113,Matty Kennedy,1994-11-01,Forward,"Belfast, Northern Ireland",Northern Ireland,5ft 9in,175.0,,
 21292,Ryan Lowe,1978-09-18,Forward,Liverpool,England,5ft 11in,180.0,11st 3lb,71.2
-72078,Ben Maher,1995-09-28,Midfielder,Wales,England,,,,
+72078,Ben Maher,1995-09-28,Midfielder,England,England,,,,
 36254,Jimmy McNulty,1985-02-13,Defender,Liverpool,Scotland,6ft,183.0,12st 1lb,76.64
 65749,Jason Mooney,1989-02-26,Goalkeeper,,Northern Ireland,6ft 9in,206.0,,
 72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
