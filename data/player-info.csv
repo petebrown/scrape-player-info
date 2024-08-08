@@ -19,7 +19,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 104921,Chris Merrie,1998-11-02,Midfielder,Liverpool,England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,Hereford,England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,Dublin,Ireland,6ft 2in,188.0,12st 8lb,79.82
-125532,James Norris,2003-04-04,Defender,Liverpool,England,,,,
+125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,,,,
 59417,Luke Norris,1993-06-03,Forward,Stevenage,England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,,Ireland,,,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
@@ -64,7 +64,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
 51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
 114877,Josh McPake,2001-08-31,Forward,"Coatbridge, Scotland",Scotland,,,,
-49806,Jay Spearing,1988-11-25,Midfielder,Wallasey,England,5ft 6in,168.0,11st 1lb,70.29
+49806,Jay Spearing,1988-11-25,Midfielder,"Wallasey, England",England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
 144980,Lewis Warrington,2002-10-10,Midfielder,,England,,,,
