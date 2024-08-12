@@ -41,7 +41,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Midfielder,"Dundee, Scotland",Scotland,,,,
-103555,Josh Dacres-Cogley,1996-03-12,Defender,"Coventry, England",England,6ft,183.0,,
+103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
@@ -204,8 +204,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 69047,Ben Davies,1995-08-11,Defender,Barrow,England,6ft 1in,185.0,,
 74169,Janoi Donacien,1993-11-03,Defender,St. Lucia,St. Lucia,6ft,183.0,,
 51374,George Donnelly,1988-05-28,Forward,,England,,,,
-57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 45280,Adam Dugdale,1987-09-12,Defender,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
+60000,Eliot Richards,1991-09-10,Forward,,Wales,5ft 9in,175.0,,
 67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
@@ -230,7 +230,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 82567,Tolani Omotola,1998-04-16,Forward,,England,,,,
 55480,Max Power,1993-07-27,Midfielder,Birkenhead,England,5ft 11in,180.0,12st 4lb,78.0
 69960,Sam Ramsbottom,1996-04-03,Goalkeeper,,England,,,,
-60000,Eliot Richards,1991-09-10,Forward,,Wales,5ft 9in,175.0,,
+57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 61259,James Rowe,1991-10-21,Midfielder,,England,,,,
 21776,Chris Shuker,1982-05-09,Midfielder,"Liverpool, England",England,5ft 5in,165.0,9st 4lb,58.96
 49472,Robert Taylor,1985-01-16,Defender,,England,5ft 10in,178.0,12st 13lb,82.09
