@@ -257,7 +257,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
 32335,Jon Otsemobor,1983-03-23,Defender,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
 70729,Matthew Pennington,1994-10-06,Defender,Warrington,England,6ft 1in,185.0,,
-73901,Kristoffer Peterson,1994-11-28,Forward,"Gothenburg, Sweden",Sweden,,,,
+73901,Kristoffer Peterson,1994-11-28,Midfielder,"Gothenburg, Sweden",Sweden,,,,
 34287,Andy Robinson,1979-11-03,Midfielder,,England,5ft 8in,173.0,10st 1lb,63.95
 24524,Akpo Sodje,1981-01-31,Forward,,England,6ft 1in,185.0,12st 4lb,78.0
 51399,Ash Taylor,1990-09-02,Defender,England,Wales,6ft,183.0,12st,76.19
@@ -348,7 +348,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
 21689,Antony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
-51215,Danny Mayor,1990-10-18,Midfielder,England,England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Midfielder,"Leyland, England",England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
