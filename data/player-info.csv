@@ -27,7 +27,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 58504,Kane Hemmings,1991-04-08,Forward,"Burton upon Trent, England",England,,,,
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
 144033,Rhys Hughes,2001-09-21,Forward,,Wales,,,,
-120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
+120094,Charlie Jolley,2001-01-13,Midfielder,,England,,,,
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
@@ -45,7 +45,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
-115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
+115876,Florent Hoti,2000-12-11,Forward,England,Kosovo,,,,
 121903,Paul Glatzel,2001-02-20,Forward,"Liverpool, England",Germany,,,,
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 108098,Kyle Jameson,1998-09-11,Defender,,England,,,,
@@ -137,7 +137,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
 41710,Ishmael Miller,1987-03-05,Forward,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
 78694,Dylan Mottley-Henry,1997-08-02,Midfielder,"Leeds, England",England,,,,
-51911,James Norwood,1990-09-05,Forward,England,England,5ft 9in,175.0,,
+51911,James Norwood,1990-09-05,Midfielder,England,England,5ft 9in,175.0,,
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
