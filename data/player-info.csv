@@ -35,7 +35,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
 125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,,,,
-71462,Paul Lewis,1994-12-17,Midfielder,Liverpool,England,6ft 1in,185.0,,
+71462,Paul Lewis,1994-12-17,Midfielder,"Liverpool, England",England,6ft 1in,185.0,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
 124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
@@ -50,7 +50,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
 121903,Paul Glatzel,2001-02-20,Forward,"Liverpool, England",Germany,,,,
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
-108098,Kyle Jameson,1998-09-11,Defender,,England,,,,
+108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
 140587,Elliott Nevitt,1996-10-30,Forward,England,England,,,,
@@ -78,7 +78,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
 144980,Lewis Warrington,2002-10-10,Midfielder,"Birkenhead, England",England,,,,
 67179,Ryan Watson,1993-07-07,Midfielder,,England,6ft 1in,185.0,,
-55846,Oliver Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
+55846,Ollie Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
 87739,Corey Blackett-Taylor,1997-09-23,Midfielder,"Birmingham, England",England,5ft 6in,168.0,,
 46423,Ali Crawford,1991-07-30,Midfielder,Lanark,Scotland,5ft 7in,170.0,,
 56548,Danny Lloyd,1991-12-03,Forward,,England,,,,
@@ -93,7 +93,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 30552,David Nugent,1985-05-02,Forward,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
 75196,Otis Khan,1995-09-05,Midfielder,,Pakistan,,,,
 54992,Stefan Payne,1991-08-10,Forward,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
-60385,George Ray,1993-10-13,Defender,England,Wales,5ft 10in,178.0,11st 3lb,71.2
+60385,George Ray,1993-10-13,Defender,"Warrington, England",Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,England,England,5ft 10in,178.0,,
 99462,Sam Smith,1998-03-08,Forward,"Manchester,",England,6ft 1in,185.0,,
 134764,Jamie Timlin,,Forward,England,England,,,,
@@ -143,7 +143,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Midfielder,England,England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Forward,"Liverpool, England",England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
@@ -362,7 +362,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 27015,Shane Cansdell-Sherriff,1982-11-10,Defender,"Sydney, Australia",Australia,6ft,183.0,12st,76.19
 1638,Kevin Cooper,1975-02-08,Midfielder,Derby,England,5ft 8in,173.0,10st 7lb,66.67
 41795,Steve Davies,1987-12-29,Forward,Liverpool,England,6ft 1in,185.0,11st 6lb,72.56
-43715,Michael Jones,1987-08-15,Midfielder,Birkenhead,England,6ft,183.0,12st 2lb,77.1
+43715,Mike Jones,1987-08-15,Midfielder,"Birkenhead, England",England,6ft,183.0,12st 2lb,77.1
 46270,Shane McWeeney,1989-10-14,Goalkeeper,,,,,,
 5675,John Mullin,1975-08-11,Midfielder,Bury,England,6ft,183.0,11st,69.84
 13755,Robert Stockdale,1979-11-30,Defender,Redcar,Scotland,5ft 9in,175.0,12st 2lb,77.1
