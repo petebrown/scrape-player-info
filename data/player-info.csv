@@ -231,7 +231,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44584,Jennison Myrie-Williams,1988-05-17,Midfielder,Bristol,England,6ft,183.0,12st,76.19
 19157,Kayode Odejayi,1982-02-21,Forward,"Ibadon, Nigeria",Nigeria,6ft 3in,191.0,12st 2lb,77.1
 82567,Tolani Omotola,1998-04-16,Forward,,England,,,,
-55480,Max Power,1993-07-27,Midfielder,Birkenhead,England,5ft 11in,180.0,12st 4lb,78.0
+55480,Max Power,1993-07-27,Midfielder,"Birkenhead, England",England,5ft 11in,180.0,12st 4lb,78.0
 69960,Sam Ramsbottom,1996-04-03,Goalkeeper,,England,,,,
 57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 61259,James Rowe,1991-10-21,Midfielder,,England,,,,
@@ -283,7 +283,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 53112,Liam Palmer,1991-09-19,Defender,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,,
-46484,Lucas Akins,1989-02-25,Midfielder,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
+46484,Lucas Akins,1989-02-25,Forward,Huddersfield,Grenada,5ft 11in,180.0,12st 8lb,79.82
 49716,Jose Baxter,1992-02-07,Forward,Bootle,England,5ft 10in,178.0,11st 6lb,72.56
 62991,Ryan Brunt,1993-05-26,Forward,Birmingham,England,6ft 1in,185.0,,
 40756,David Buchanan,1986-05-06,Defender,Rochdale,England,5ft 8in,173.0,10st 8lb,67.12
