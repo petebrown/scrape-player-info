@@ -8,7 +8,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
-63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
+63609,Connor Jennings,1991-10-29,Midfielder,"Manchester, England",England,6ft,183.0,,
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 104921,Chris Merrie,1998-11-02,Midfielder,"Liverpool, England",England,,,,
@@ -16,9 +16,9 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
 88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 59417,Luke Norris,1993-06-03,Forward,"Stevenage, England",England,5ft 11in,180.0,13st 5lb,84.81
-117422,Lee O'Connor,2000-07-28,Midfielder,"Waterford, Republic of Ireland",Ireland,,,,
+117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
-100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
+100535,Harvey Saunders,1997-07-20,Midfielder,"Wolverhampton, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
 165326,Samuel Taylor,2003-12-23,Midfielder,England,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,"Trowbridge, England",England,,,,
