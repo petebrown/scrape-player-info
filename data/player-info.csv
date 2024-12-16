@@ -9,6 +9,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
 63609,Connor Jennings,1991-10-29,Midfielder,"Manchester, England",England,6ft,183.0,,
+144159,Josh Williams,2004-07-13,Midfielder,Wales,Wales,,,,
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 104921,Chris Merrie,1998-11-02,Midfielder,"Liverpool, England",England,,,,
@@ -23,7 +24,6 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 165326,Samuel Taylor,2003-12-23,Midfielder,England,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,"Trowbridge, England",England,,,,
 69329,Brad Walker,1996-04-25,Midfielder,"Billingham, England",England,6ft 1in,185.0,12st 8lb,79.82
-144159,Josh Williams,2004-07-13,Midfielder,Wales,Wales,,,,
 95984,Connor Wood,1996-07-17,Defender,"Harlow, England",England,,,,
 136092,Rob Apter,2003-01-16,Midfielder,England,Scotland,,,,
 137278,Jean Belehouan,2000-09-01,Defender,France,France,,,,
@@ -208,7 +208,6 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 74169,Janoi Donacien,1993-11-03,Defender,St. Lucia,St. Lucia,6ft,183.0,,
 51374,George Donnelly,1988-05-28,Forward,,England,,,,
 45280,Adam Dugdale,1987-09-12,Defender,Liverpool,England,6ft 3in,191.0,12st 7lb,79.37
-60000,Eliot Richards,1991-09-10,Forward,,Wales,5ft 9in,175.0,,
 67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
@@ -233,6 +232,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 82567,Tolani Omotola,1998-04-16,Forward,,England,,,,
 55480,Max Power,1993-07-27,Midfielder,"Birkenhead, England",England,5ft 11in,180.0,12st 4lb,78.0
 69960,Sam Ramsbottom,1996-04-03,Goalkeeper,,England,,,,
+60000,Eliot Richards,1991-09-10,Forward,,Wales,5ft 9in,175.0,,
 57274,Rory Donnelly,1992-02-18,Forward,,Northern Ireland,6ft 2in,188.0,,
 61259,James Rowe,1991-10-21,Midfielder,,England,,,,
 21776,Chris Shuker,1982-05-09,Midfielder,"Liverpool, England",England,5ft 5in,165.0,9st 4lb,58.96
