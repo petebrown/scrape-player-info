@@ -60,7 +60,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
-72487,Emmanuel Dieseruvwe,1995-02-20,Forward,,England,,,,
+72487,Emmanuel Dieseruvwe,1995-02-20,Midfielder,,England,,,,
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
@@ -123,7 +123,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
-92840,Kane Wilson,2000-03-11,Defender,England,England,,,,
+92840,Kane Wilson,2000-03-11,Midfielder,England,England,,,,
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
 54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
@@ -336,7 +336,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50951,Josh Macauley,1991-03-02,Forward,,England,,,,
 37093,David Martin,1986-01-22,Goalkeeper,Romford,England,6ft 1in,185.0,13st 9lb,86.62
 21233,Chris McCready,1981-07-05,Defender,Chester,England,6ft 1in,185.0,12st 2lb,77.1
-49649,Luke O'Neill,1991-08-20,Defender,Slough,England,6ft,183.0,11st 3lb,71.2
+49649,Luke O'Neill,1991-08-20,Midfielder,Slough,England,6ft,183.0,11st 3lb,71.2
 9303,Michael Ricketts,1978-12-04,Forward,Birmingham,England,6ft 2in,188.0,11st 12lb,75.28
 30699,Bas Savage,1982-01-07,Forward,London,England,6ft 2in,188.0,13st 5lb,84.81
 51720,Marvin Sordell,1991-02-17,Forward,England,England,5ft 10in,178.0,12st 5lb,78.46
