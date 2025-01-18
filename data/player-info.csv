@@ -34,7 +34,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
-125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,,,,
+125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,5ft 7in,170.0,,
 71462,Paul Lewis,1994-12-17,Midfielder,"Liverpool, England",England,6ft 1in,185.0,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 144033,Rhys Hughes,2001-09-21,Forward,,Wales,,,,
@@ -73,7 +73,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
 51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
-114877,Josh McPake,2001-08-31,Forward,"Coatbridge, Scotland",Scotland,,,,
+114877,Josh McPake,2001-08-31,Midfielder,"Coatbridge, Scotland",Scotland,,,,
 49806,Jay Spearing,1988-11-25,Defender,"Wallasey, England",England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
 101526,Stephen Walker,2000-10-11,Midfielder,Middlesbrough,England,,,,
