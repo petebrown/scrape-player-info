@@ -1,5 +1,5 @@
 player_id,real_name,player_dob,player_position,place_of_birth,nationality,height_ft,height_cm,weight_st,weight_kg
-160029,Zak Bradshaw,2003-09-22,Midfielder,England,England,,,,
+160029,Zak Bradshaw,2003-09-22,Defender,England,England,,,,
 76807,Tom Davies,1992-04-18,Defender,"Warrington, England",Wales,5ft 10in,178.0,,
 126162,Josh Davison,1999-09-16,Forward,"London, England",England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,"Manchester, England",England,,,,
@@ -8,13 +8,13 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
-63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
+63609,Connor Jennings,1991-10-29,Midfielder,"Manchester, England",England,6ft,183.0,,
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 104921,Chris Merrie,1998-11-02,Midfielder,"Liverpool, England",England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,"Hereford, England",England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
-88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
+88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 59417,Luke Norris,1993-06-03,Forward,"Stevenage, England",England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Forward,"Slough, England",England,6ft 1in,185.0,,
@@ -60,7 +60,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
-72487,Emmanuel Dieseruvwe,1995-02-20,Midfielder,,England,,,,
+72487,Emmanuel Dieseruvwe,1995-02-20,Forward,,England,,,,
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
