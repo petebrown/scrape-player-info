@@ -16,9 +16,9 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 104921,Chris Merrie,1998-11-02,Midfielder,"Liverpool, England",England,,,,
 68138,Kieron Morris,1994-06-03,Midfielder,"Hereford, England",England,5ft 10in,178.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
-88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
+88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
 59417,Luke Norris,1993-06-03,Forward,"Stevenage, England",England,5ft 11in,180.0,13st 5lb,84.81
-117422,Lee O'Connor,2000-07-28,Midfielder,"Waterford, Republic of Ireland",Ireland,,,,
+117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 171213,Sol Solomon,2001-03-17,Midfielder,England,England,,,,
@@ -127,7 +127,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
 92840,Kane Wilson,2000-03-11,Midfielder,England,England,,,,
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
-54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
+54534,Alex Woodyard,1993-05-03,Defender,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
 44204,Zoumana Bakayogo,1986-08-17,Defender,France,Ivory Coast,5ft 9in,175.0,10st 12lb,68.94
 58164,Adam Buxton,1992-05-12,Defender,Liverpool,England,6ft 1in,185.0,,
