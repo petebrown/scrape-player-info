@@ -41,7 +41,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 144033,Rhys Hughes,2001-09-21,Forward,,Wales,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
-124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
+124902,Joseph Starbuck,2002-08-03,Midfielder,,England,,,,
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
@@ -127,7 +127,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
 92840,Kane Wilson,2000-03-11,Midfielder,England,England,,,,
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
-54534,Alex Woodyard,1993-05-03,Defender,Gravesend,England,5ft 8in,173.0,,
+54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
 44204,Zoumana Bakayogo,1986-08-17,Defender,France,Ivory Coast,5ft 9in,175.0,10st 12lb,68.94
 58164,Adam Buxton,1992-05-12,Defender,Liverpool,England,6ft 1in,185.0,,
