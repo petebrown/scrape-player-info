@@ -32,7 +32,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 181422,Mikey Davies,,Defender,England,England,,,,
 58504,Kane Hemmings,1991-04-08,Forward,"Burton upon Trent, England",England,,,,
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
-120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
+120094,Charlie Jolley,2001-01-13,Midfielder,,England,,,,
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
@@ -46,8 +46,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
-104579,Logan Chalmers,2000-03-24,Forward,"Dundee, Scotland",Scotland,,,,
-103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,6ft,183.0,,
+104579,Logan Chalmers,2000-03-24,Midfielder,"Dundee, Scotland",Scotland,,,,
+103555,Josh Dacres-Cogley,1996-03-12,Defender,"Coventry, England",England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
@@ -353,7 +353,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
 21689,Antony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
-51215,Danny Mayor,1990-10-18,Forward,"Leyland, England",England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Midfielder,"Leyland, England",England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
