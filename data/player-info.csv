@@ -8,7 +8,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 143856,Jake Garrett,2003-03-10,Midfielder,"Liverpool, England",England,,,,
 101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
-93064,Regan Hendry,1998-01-21,Forward,"Edinburgh, Scotland",Scotland,,,,
+93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
 166663,Louis Jackson,2005-09-18,Defender,"Oldham, England",Scotland,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
@@ -33,7 +33,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 181422,Mikey Davies,,Defender,England,England,,,,
 58504,Kane Hemmings,1991-04-08,Forward,"Burton upon Trent, England",England,,,,
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
-120094,Charlie Jolley,2001-01-13,Forward,,England,,,,
+120094,Charlie Jolley,2001-01-13,Midfielder,,England,,,,
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
@@ -42,13 +42,13 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 144033,Rhys Hughes,2001-09-21,Forward,,Wales,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
-124902,Joseph Starbuck,2002-08-03,Midfielder,,England,,,,
+124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
 133368,Ethan Bristow,2001-11-27,Defender,"Maidenhead, England",St Kitts & Nevis,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Forward,"Dundee, Scotland",Scotland,,,,
-103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,6ft,183.0,,
+103555,Josh Dacres-Cogley,1996-03-12,Defender,"Coventry, England",England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
@@ -63,7 +63,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
-72487,Emmanuel Dieseruvwe,1995-02-20,Forward,,England,,,,
+72487,Emmanuel Dieseruvwe,1995-02-20,Midfielder,,England,,,,
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
@@ -156,7 +156,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 80683,Mitch Duggan,1997-03-20,Defender,,England,,,,
 80291,Jack Dunn,1994-11-19,Midfielder,,England,,,,
 75869,Josh Ginnelly,1997-03-24,Forward,"Coventry, England",England,5ft 8in,173.0,,
-80289,Devarn Green,1996-08-26,Forward,England,England,,,,
+80289,Devarn Green,1996-08-26,Midfielder,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
 89457,Josh Kay,1997-01-30,Midfielder,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,Liverpool,England,,,,
@@ -263,7 +263,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
 32335,Jon Otsemobor,1983-03-23,Defender,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
 70729,Matthew Pennington,1994-10-06,Defender,England,England,6ft 1in,185.0,,
-73901,Kristoffer Peterson,1994-11-28,Midfielder,"Gothenburg, Sweden",Sweden,,,,
+73901,Kristoffer Peterson,1994-11-28,Forward,"Gothenburg, Sweden",Sweden,,,,
 34287,Andy Robinson,1979-11-03,Midfielder,,England,5ft 8in,173.0,10st 1lb,63.95
 24524,Akpo Sodje,1981-01-31,Forward,,England,6ft 1in,185.0,12st 4lb,78.0
 51399,Ash Taylor,1990-09-02,Defender,England,Wales,6ft,183.0,12st,76.19
