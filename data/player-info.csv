@@ -48,7 +48,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Forward,"Dundee, Scotland",Scotland,,,,
-103555,Josh Dacres-Cogley,1996-03-12,Defender,"Coventry, England",England,6ft,183.0,,
+103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,6ft,183.0,,
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
@@ -63,7 +63,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
-72487,Emmanuel Dieseruvwe,1995-02-20,Midfielder,,England,,,,
+72487,Emmanuel Dieseruvwe,1995-02-20,Forward,,England,,,,
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
@@ -243,7 +243,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50919,Josh Thompson,1991-02-25,Defender,,England,6ft 3in,191.0,11st 9lb,73.92
 42500,Danny Woodards,1983-10-07,Defender,London,England,5ft 11in,180.0,11st,69.84
 50757,Jean-Louis Akpa Akpro,1985-01-04,Forward,Toulouse,France,6ft,183.0,10st 12lb,68.94
-74148,Gboly Ariyibi,1995-01-18,Forward,USA,USA,6ft,183.0,,
+74148,Gboly Ariyibi,1995-01-18,Midfielder,USA,USA,6ft,183.0,,
 74174,Stephen Arthurworrey,1994-10-15,Defender,,England,,,,
 73366,Antonie Boland,1994-12-30,Defender,,England,,,,
 46696,Junior Brown,1989-05-07,Defender,,England,5ft 9in,175.0,10st 10lb,68.03
