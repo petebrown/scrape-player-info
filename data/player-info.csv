@@ -95,7 +95,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 74341,Sid Nelson,1996-01-01,Defender,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,Birkenhead,England,,,,
 30552,David Nugent,1985-05-02,Forward,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
-75196,Otis Khan,1995-09-05,Forward,,Pakistan,,,,
+75196,Otis Khan,1995-09-05,Midfielder,,Pakistan,,,,
 54992,Stefan Payne,1991-08-10,Forward,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
 60385,George Ray,1993-10-13,Defender,"Warrington, England",Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,England,England,5ft 10in,178.0,,
@@ -255,7 +255,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 52014,Tom Hateley,1989-09-12,Midfielder,"Monte Carlo, England",England,,,,
 40982,Evan Horwood,1986-03-10,Defender,Hartlepool,England,6ft,183.0,11st 9lb,73.92
 57204,Andrai Jones,1992-01-01,Defender,Liverpool,England,5ft 11in,180.0,10st 10lb,68.03
-58113,Matty Kennedy,1994-11-01,Forward,"Belfast, Northern Ireland",Northern Ireland,5ft 9in,175.0,,
+58113,Matty Kennedy,1994-11-01,Midfielder,"Belfast, Northern Ireland",Northern Ireland,5ft 9in,175.0,,
 21292,Ryan Lowe,1978-09-18,Forward,Liverpool,England,5ft 11in,180.0,11st 3lb,71.2
 72078,Ben Maher,1995-09-28,Midfielder,England,England,,,,
 36254,Jimmy McNulty,1985-02-13,Defender,Liverpool,Scotland,6ft,183.0,12st 1lb,76.64
@@ -286,7 +286,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 53112,Liam Palmer,1991-09-19,Midfielder,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,11st 8lb,73.47
-46484,Lucas Akins,1989-02-25,Forward,England,Grenada,5ft 11in,180.0,12st 8lb,79.82
+46484,Lucas Akins,1989-02-25,Midfielder,England,Grenada,5ft 11in,180.0,12st 8lb,79.82
 49716,Jose Baxter,1992-02-07,Forward,Bootle,England,5ft 10in,178.0,11st 6lb,72.56
 62991,Ryan Brunt,1993-05-26,Forward,Birmingham,England,6ft 1in,185.0,,
 40756,David Buchanan,1986-05-06,Defender,Rochdale,England,5ft 8in,173.0,10st 8lb,67.12
