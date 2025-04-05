@@ -99,7 +99,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 54992,Stefan Payne,1991-08-10,Forward,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
 60385,George Ray,1993-10-13,Defender,"Warrington, England",Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,England,England,5ft 10in,178.0,,
-99462,Sam Smith,1998-03-08,Forward,England,England,6ft 1in,185.0,,
+99462,Sam Smith,1998-03-08,Forward,"Manchester, England",England,6ft 1in,185.0,,
 134764,Jamie Timlin,,Forward,England,England,,,,
 40847,James Vaughan,1988-07-14,Forward,Birmingham,England,5ft 9in,175.0,12st 9lb,80.27
 111844,Danny Walker-Rice,2000-11-10,Forward,,England,5ft 6in,168.0,,
@@ -116,7 +116,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 97829,Jacob Maddox,1998-11-03,Forward,Bristol,England,,,,
 69031,Luke McCullough,1994-02-15,Defender,Portadown,Northern Ireland,,,,
 107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
-70542,Paul Mullin,1994-11-06,Forward,England,England,5ft 10in,178.0,11st 2lb,70.75
+70542,Paul Mullin,1994-11-06,Forward,"Litherland, England",England,5ft 10in,178.0,11st 2lb,70.75
 128731,Harrison Musuamba,2002-05-20,Defender,Liverpool,England,,,,
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
 22779,David Perkins,1982-06-21,Midfielder,England,England,6ft 2in,188.0,12st,76.19
@@ -135,7 +135,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 62460,Larnell Cole,1993-03-09,Midfielder,Manchester,England,,,,
 36344,Chris Dagnall,1986-04-15,Forward,Liverpool,England,5ft 8in,173.0,11st 8lb,73.47
 114197,Jay Devine,1999-07-26,Midfielder,,England,,,,
-92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,,,,
+92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,6ft 3in,191.0,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
 43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
 90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
