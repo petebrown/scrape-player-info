@@ -126,7 +126,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
-92840,Kane Wilson,2000-03-11,Midfielder,"Birmingham, England",England,5ft 10in,178.0,11st 2lb,70.75
+92840,Kane Wilson,2000-03-11,Defender,"Birmingham, England",England,5ft 10in,178.0,11st 2lb,70.75
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
 54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
@@ -263,7 +263,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
 32335,Jon Otsemobor,1983-03-23,Defender,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
 70729,Matthew Pennington,1994-10-06,Defender,"Warrington, England",England,6ft 1in,185.0,12st 1lb,76.64
-73901,Kristoffer Peterson,1994-11-28,Forward,"Gothenburg, Sweden",Sweden,,,,
+73901,Kristoffer Peterson,1994-11-28,Midfielder,"Gothenburg, Sweden",Sweden,,,,
 34287,Andy Robinson,1979-11-03,Midfielder,,England,5ft 8in,173.0,10st 1lb,63.95
 24524,Akpo Sodje,1981-01-31,Forward,,England,6ft 1in,185.0,12st 4lb,78.0
 51399,Ash Taylor,1990-09-02,Defender,England,Wales,6ft,183.0,12st,76.19
