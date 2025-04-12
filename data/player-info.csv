@@ -7,8 +7,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 197047,Reuben Egan,2005-07-27,Goalkeeper,"Ferbane, Offaly, Republic of I",Ireland,,,,
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 143856,Jake Garrett,2003-03-10,Midfielder,"Liverpool, England",England,,,,
-101331,Josh Hawkes,1999-01-28,Forward,"Stockton-on-Tees, England",England,,,,
-93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
+101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
+93064,Regan Hendry,1998-01-21,Forward,"Edinburgh, Scotland",Scotland,,,,
 166663,Louis Jackson,2005-09-18,Defender,"Oldham, England",Scotland,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
@@ -35,7 +35,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 162707,Ben Hockenhull,2001-09-03,Defender,,England,,,,
 120094,Charlie Jolley,2001-01-13,Midfielder,,England,,,,
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
-136739,Jake Leake,2003-02-20,Defender,England,England,,,,
+136739,Jake Leake,2003-02-20,Midfielder,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
 125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,5ft 7in,170.0,,
 71462,Paul Lewis,1994-12-17,Midfielder,"Liverpool, England",England,6ft 1in,185.0,,
@@ -59,7 +59,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
 140587,Elliott Nevitt,1996-10-30,Forward,England,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
-133373,Luke Robinson,2001-11-20,Midfielder,Birkenhead,Scotland,,,,
+133373,Luke Robinson,2001-11-20,Defender,Birkenhead,Scotland,,,,
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
@@ -121,7 +121,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
 22779,David Perkins,1982-06-21,Midfielder,England,England,6ft 2in,188.0,12st,76.19
 73677,Luke Pilling,1997-07-25,Goalkeeper,England,Wales,6ft 1in,185.0,,
-104291,Jordan Ponticelli,1998-09-10,Forward,,England,5ft 10in,178.0,,
+104291,Jordan Ponticelli,1998-09-10,Midfielder,,England,5ft 10in,178.0,,
 35630,Darren Potter,1984-12-21,Midfielder,Liverpool,Ireland,6ft,183.0,11st 10lb,74.38
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
@@ -137,7 +137,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 114197,Jay Devine,1999-07-26,Midfielder,,England,,,,
 92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,6ft 3in,191.0,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
-43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
+43779,Jay Harris,1987-04-15,Forward,Liverpool,England,5ft 7in,170.0,11st,69.84
 90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 111843,Nick Long,,Midfielder,,England,,,,
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
@@ -354,7 +354,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 50065,John Johnson,1988-09-16,Defender,,England,6ft,183.0,12st 2lb,77.1
 21689,Antony Kay,1982-10-21,Defender,England,England,6ft,183.0,13st 6lb,85.26
 51109,Peter Kennedy,,Goalkeeper,,England,,,,
-51215,Danny Mayor,1990-10-18,Midfielder,"Leyland, England",England,6ft,183.0,12st,76.19
+51215,Danny Mayor,1990-10-18,Forward,"Leyland, England",England,6ft,183.0,12st,76.19
 15089,George O'Callaghan,1979-09-05,Midfielder,Cork,Ireland,6ft 1in,185.0,10st 5lb,65.76
 33760,Philip Palethorpe,1986-09-17,Goalkeeper,,England,6ft 2in,188.0,11st 8lb,73.47
 47302,Ryan Shotton,1988-10-30,Defender,Fenton,England,6ft 3in,191.0,13st 3lb,83.9
