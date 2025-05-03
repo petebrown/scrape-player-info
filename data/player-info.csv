@@ -20,10 +20,10 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
 59417,Luke Norris,1993-06-03,Forward,"Stevenage, England",England,5ft 11in,180.0,13st 5lb,84.81
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
-89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
+89447,Omari Patrick,1996-05-24,Forward,"Slough, England",England,6ft 1in,185.0,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
-165326,Samuel Taylor,2003-12-23,Forward,England,England,,,,
+165326,Samuel Taylor,2003-12-23,Midfielder,England,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,"Trowbridge, England",England,,,,
 69329,Brad Walker,1996-04-25,Midfielder,"Billingham, England",England,6ft 1in,185.0,12st 8lb,79.82
 144159,Josh Williams,2004-07-13,Midfielder,Wales,Wales,,,,
@@ -67,7 +67,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 40110,Mark Duffy,1985-10-07,Midfielder,Liverpool,England,5ft 9in,175.0,11st 3lb,71.2
 146009,Dylan Dwyer,,Midfielder,,England,,,,
 46973,Liam Feeney,1987-01-21,Midfielder,Hammersmith,England,6ft,183.0,12st,76.19
-44029,Sam Foley,1986-10-17,Midfielder,"Upton-on-Severn, England",Ireland,6ft,183.0,10st 12lb,68.94
+44029,Sam Foley,1986-10-17,Defender,"Upton-on-Severn, England",Ireland,6ft,183.0,10st 12lb,68.94
 128556,Kyle Hayde,2001-09-25,Defender,England,England,,,,
 126479,Ben Jones,2000-11-29,Goalkeeper,England,England,,,,
 146008,Ethan Jones,2004-10-16,Defender,,England,,,,
