@@ -56,10 +56,10 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
+133373,Luke Robinson,2001-11-20,Defender,Scotland,Scotland,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
 140587,Elliott Nevitt,1996-10-30,Forward,England,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
-133373,Luke Robinson,2001-11-20,Defender,Birkenhead,Scotland,,,,
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
 18605,Peter Clarke,1982-01-03,Defender,Southport,England,6ft,183.0,11st 9lb,73.92
@@ -75,7 +75,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
-51474,Callum McManaman,1991-04-25,Midfielder,Merseyside,England,5ft 9in,175.0,11st 6lb,72.56
+51474,Callum McManaman,1991-04-25,Midfielder,England,England,5ft 9in,175.0,11st 6lb,72.56
 114877,Josh McPake,2001-08-31,Midfielder,"Coatbridge, Scotland",Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,"Wallasey, England",England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
@@ -91,7 +91,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 88451,Morgan Ferrier,1994-11-15,Forward,England,Guyana,6ft 1in,185.0,,
 128732,Ethan Gouldbourne,2000-10-10,Midfielder,Liverpool,England,,,,
 104997,Nya Kirby,2000-01-31,Midfielder,Islington,England,5ft 7in,170.0,,
-75406,Emmanuel Monthe,1995-01-26,Defender,"Douala, Cameroon",Cameroon,6ft 4in,193.0,,
+75406,Manny Monthe,1995-01-26,Defender,Cameroon,Cameroon,6ft 4in,193.0,,
 74341,Sid Nelson,1996-01-01,Defender,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,Birkenhead,England,,,,
 30552,David Nugent,1985-05-02,Forward,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
@@ -165,7 +165,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 33803,James McEveley,1985-02-11,Defender,Liverpool,Scotland,6ft,183.0,13st 3lb,83.9
 62490,Oliver Norburn,1992-10-26,Midfielder,England,Grenada,6ft 1in,185.0,,
 104475,Elliot Rokka,1996-03-16,Midfielder,England,England,,,,
-102628,Josh Solomon-Davies,1999-11-20,Midfielder,,St. Lucia,,,,
+102628,Josh Solomon-Davies,1999-11-20,Defender,,St. Lucia,,,,
 48375,Rhys Taylor,1990-04-07,Goalkeeper,Neath,Wales,6ft 1in,185.0,13st 3lb,83.9
 77908,Drissa Traore,1992-03-25,Midfielder,,Ivory Coast,5ft 8in,173.0,,
 49717,James Wallace,1991-12-19,Midfielder,Liverpool,England,5ft 10in,178.0,11st 5lb,72.11
