@@ -120,8 +120,8 @@ def main():
     df = pd.DataFrame(player_info).drop_duplicates()
     df["player_position"] = df.apply(lambda x: add_position(x.player_id) if x.player_position == "NA" else x.player_position, axis=1)
     df["player_dob"] = df.age.str.split("Born ").str[1].str.split(")").str[0]
-    df["player_dob"] = pd.to_datetime(df.player_dob)
-    df["date_signed"] = pd.to_datetime(df.date_signed)
+    df["player_dob"] = pd.to_datetime(df.player_dob, format='%d %b, %Y', errors='coerce')
+    df["date_signed"] = pd.to_datetime(df.date_signed, format='%d %b, %Y', errors='coerce')
     
     df["height_ft"] = df.height.str.split(" \(").str[0]
     df["height_cm"] = df.height.str.split(" \(").str[1].str.split("m").str[0].astype("float") * 100
