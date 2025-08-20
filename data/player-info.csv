@@ -7,7 +7,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
 136089,Nohan Kenneh,2003-01-10,Midfielder,"Zwedru, Liberia",Liberia,,,,
-58118,Jason Lowe,1991-09-02,Midfielder,"Wigan, England",England,5ft 10in,178.0,,
+58118,Jason Lowe,1991-09-02,Defender,"Wigan, England",England,5ft 10in,178.0,,
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
 88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
@@ -64,7 +64,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
-133373,Luke Robinson,2001-11-20,Defender,Scotland,Scotland,,,,
+133373,Luke Robinson,2001-11-20,Midfielder,Scotland,Scotland,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
 140587,Elliott Nevitt,1996-10-30,Forward,England,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
