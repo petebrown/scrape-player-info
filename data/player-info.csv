@@ -12,7 +12,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
 88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
-89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
+89447,Omari Patrick,1996-05-24,Forward,"Slough, England",England,6ft 1in,185.0,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
@@ -46,7 +46,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 191778,Ousmane Kane,2001-07-23,Midfielder,Senegal,Senegal,,,,
 136739,Jake Leake,2003-02-20,Defender,England,England,,,,
 125105,Reece McAlear,2002-02-12,Midfielder,"Glasgow, Scotland",Scotland,,,,
-125532,James Norris,2003-04-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,,
+125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,5ft 7in,170.0,,
 71462,Paul Lewis,1994-12-17,Midfielder,"Liverpool, England",England,6ft 1in,185.0,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 144033,Rhys Hughes,2001-09-21,Midfielder,,Wales,,,,
@@ -60,7 +60,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
-121903,Paul Glatzel,2001-02-20,Midfielder,"Liverpool, England",Germany,,,,
+121903,Paul Glatzel,2001-02-20,Forward,"Liverpool, England",Germany,,,,
 96403,Mateusz Hewelt,1996-09-23,Goalkeeper,,Poland,5ft 10in,178.0,11st 8lb,73.47
 108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
@@ -290,8 +290,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
 64219,Sean McGinty,1993-08-11,Defender,"Maidstone, England",Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
-58154,Michael O'Halloran,1991-01-06,Forward,"Glasgow, Scotland",Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Defender,England,Scotland,6ft 2in,188.0,,
+58154,Michael O'Halloran,1991-01-06,Midfielder,"Glasgow, Scotland",Scotland,5ft 11in,180.0,,
+53112,Liam Palmer,1991-09-19,Midfielder,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,11st 8lb,73.47
 46484,Lucas Akins,1989-02-25,Forward,England,Grenada,5ft 11in,180.0,12st 8lb,79.82
