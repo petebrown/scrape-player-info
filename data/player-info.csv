@@ -137,7 +137,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
 121908,Bailey Thompson,2001-06-07,Midfielder,Bury,England,,,,
-92840,Kane Wilson,2000-03-11,Midfielder,England,England,5ft 10in,178.0,11st 2lb,70.75
+92840,Kane Wilson,2000-03-11,Defender,England,England,5ft 10in,178.0,11st 2lb,70.75
 44052,Calum Woods,1987-02-05,Defender,England,England,5ft 11in,180.0,11st 7lb,73.02
 54534,Alex Woodyard,1993-05-03,Midfielder,Gravesend,England,5ft 8in,173.0,,
 115214,Franklyn Akammadu,1998-08-11,Forward,"Padova, Italy",Italy,,,,
@@ -169,7 +169,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 75869,Josh Ginnelly,1997-03-24,Forward,"Coventry, England",England,5ft 8in,173.0,,
 80289,Devarn Green,1996-08-26,Forward,England,England,,,,
 41945,Jeff Hughes,1985-05-29,Midfielder,Larne,Northern Ireland,6ft,183.0,11st 2lb,70.75
-89457,Josh Kay,1997-01-30,Defender,England,England,,,,
+89457,Josh Kay,1997-01-30,Midfielder,England,England,,,,
 65015,Jake Kirby,1994-05-09,Midfielder,Liverpool,England,,,,
 38248,Andy Mangan,1986-08-30,Forward,Liverpool,England,5ft 9in,175.0,10st 3lb,64.85
 87751,Gerry McDonagh,1998-02-14,Forward,Republic of Ireland,Ireland,,,,
