@@ -5,6 +5,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 71332,Patrick Brough,1996-02-20,Defender,"Carlisle, England",England,5ft 7in,170.0,,
 126162,Josh Davison,1999-09-16,Forward,"London, England",England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,"Manchester, England",England,,,,
+81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
 66015,Joe Ironside,1993-10-16,Forward,"Middlesbrough, England",England,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
@@ -26,7 +27,6 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 76807,Tom Davies,1992-04-18,Defender,"Warrington, England",Wales,5ft 10in,178.0,,
 102629,Declan Drysdale,1999-11-14,Defender,"Birkenhead, England",England,,,,
 197047,Reuben Egan,2005-07-27,Goalkeeper,"Ferbane, Offaly, Republic of I",Ireland,,,,
-81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 143856,Jake Garrett,2003-03-10,Midfielder,"Liverpool, England",England,,,,
 101331,Josh Hawkes,1999-01-28,Midfielder,"Stockton-on-Tees, England",England,,,,
 93064,Regan Hendry,1998-01-21,Midfielder,"Edinburgh, Scotland",Scotland,,,,
@@ -158,7 +158,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Midfielder,"Liverpool, England",England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Forward,"Liverpool, England",England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
