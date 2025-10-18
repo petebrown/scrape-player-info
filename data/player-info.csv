@@ -15,15 +15,15 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 69101,Aaron McGowan,1996-07-24,Defender,"Maghull, England",England,6ft,183.0,12st 8lb,79.82
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
-88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
+88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
-89447,Omari Patrick,1996-05-24,Forward,"Slough, England",England,6ft 1in,185.0,,
+89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,"Trowbridge, England",England,,,,
-142753,Charlie Whitaker,2003-09-16,Midfielder,,England,,,,
+142753,Charlie Whitaker,2003-09-16,Forward,,England,,,,
 160029,Zak Bradshaw,2003-09-22,Defender,England,England,,,,
 76807,Tom Davies,1992-04-18,Defender,"Warrington, England",Wales,5ft 10in,178.0,,
 102629,Declan Drysdale,1999-11-14,Defender,"Birkenhead, England",England,,,,
@@ -88,7 +88,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
 41443,Nicky Maynard,1986-12-11,Forward,Winsford,England,5ft 11in,180.0,11st,69.84
 51474,Callum McManaman,1991-04-25,Midfielder,England,England,5ft 9in,175.0,11st 6lb,72.56
-114877,Josh McPake,2001-08-31,Midfielder,"Coatbridge, Scotland",Scotland,,,,
+114877,Josh McPake,2001-08-31,Forward,"Coatbridge, Scotland",Scotland,,,,
 49806,Jay Spearing,1988-11-25,Midfielder,"Wallasey, England",England,5ft 6in,168.0,11st 1lb,70.29
 143946,Ryan Stratulis,2003-04-18,Midfielder,England,England,,,,
 101526,Stephen Walker,2000-10-11,Forward,Middlesbrough,England,,,,
@@ -154,7 +154,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 111843,Nick Long,,Midfielder,,England,,,,
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
 41710,Ishmael Miller,1987-03-05,Forward,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
-78694,Dylan Mottley-Henry,1997-08-02,Midfielder,"Leeds, England",England,,,,
+78694,Dylan Mottley-Henry,1997-08-02,Forward,"Leeds, England",England,,,,
 51911,James Norwood,1990-09-05,Forward,England,England,5ft 9in,175.0,,
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
@@ -228,7 +228,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 67060,Matthias Fanimo,1994-01-28,Forward,,England,,,,
 70884,Shamir Fenelon,1994-08-03,Forward,"Brighton, England",Ireland,,,,
 43123,Owain Fon Williams,1987-03-17,Goalkeeper,Wales,Wales,6ft 4in,193.0,12st 2lb,77.1
-53388,Dan Gardner,1990-04-05,Forward,Manchester,England,6ft 1in,185.0,,
+53388,Dan Gardner,1990-04-05,Midfielder,Manchester,England,6ft 1in,185.0,,
 14601,Matthew Gill,1980-11-08,Midfielder,Cambridge,England,5ft 11in,180.0,11st 9lb,73.92
 69045,Armand Gnanduillet,1992-02-13,Forward,"Angers, France",France,6ft 4in,193.0,13st 12lb,87.98
 81892,George Green,1996-01-02,Midfielder,,England,,,,
@@ -295,7 +295,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 64219,Sean McGinty,1993-08-11,Defender,"Maidstone, England",Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
 58154,Michael O'Halloran,1991-01-06,Forward,"Glasgow, Scotland",Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Defender,England,Scotland,6ft 2in,188.0,,
+53112,Liam Palmer,1991-09-19,Midfielder,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,11st 8lb,73.47
 46484,Lucas Akins,1989-02-25,Midfielder,England,Grenada,5ft 11in,180.0,12st 8lb,79.82
