@@ -18,7 +18,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
-100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
+100535,Harvey Saunders,1997-07-20,Midfielder,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
@@ -82,7 +82,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44029,Sam Foley,1986-10-17,Midfielder,"Upton-on-Severn, England",Ireland,6ft,183.0,10st 12lb,68.94
 128556,Kyle Hayde,2001-09-25,Defender,England,England,,,,
 126479,Ben Jones,2000-11-29,Goalkeeper,England,England,,,,
-146008,Ethan Jones,2004-10-16,Defender,,England,,,,
+146008,Ethan Jones,2004-10-16,Midfielder,,England,,,,
 42622,Nathaniel Knight-Percival,1987-03-31,Midfielder,Enfield,England,6ft,183.0,,
 96015,Calum MacDonald,1997-12-18,Defender,Scotland,Scotland,,,,
 85444,Joseph Maguire,1996-01-18,Defender,Manchester,England,5ft 10in,178.0,10st 7lb,66.67
