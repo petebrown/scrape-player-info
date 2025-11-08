@@ -68,9 +68,9 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
 108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
-133373,Luke Robinson,2001-11-20,Defender,Scotland,Scotland,,,,
+133373,Luke Robinson,2001-11-20,Midfielder,Scotland,Scotland,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
-140587,Elliott Nevitt,1996-10-30,Forward,England,England,,,,
+140587,Elliott Nevitt,1996-10-30,Midfielder,England,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
 125460,Dynel Simeu,2002-03-13,Defender,,England,,,,
 144533,Jay Turner-Cooke,2003-12-31,Midfielder,"South Shields, England",England,,,,
@@ -159,7 +159,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Midfielder,"Liverpool, England",England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Forward,"Liverpool, England",England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
@@ -193,7 +193,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 71423,Michael Ihiekwe,1992-11-20,Defender,England,England,6ft 1in,185.0,,
 36541,Steven Jennings,1984-10-28,Midfielder,Liverpool,England,5ft 5in,165.0,12st 1lb,76.64
 89957,Ethan Jones,1998-04-04,Forward,England,England,,,,
-71520,Lois Maynard,1989-01-22,Midfielder,"Manchester, England",St Kitts & Nevis,,,,
+71520,Lois Maynard,1989-01-22,Defender,"Manchester, England",St Kitts & Nevis,,,,
 52480,Adam Mekki,1991-12-24,Midfielder,England,Wales,,,,
 88950,Elliot Osborne,1996-05-16,Midfielder,,England,,,,
 58780,Darren Stephenson,1993-03-06,Forward,,Jamaica,,,,
