@@ -6,16 +6,16 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 126162,Josh Davison,1999-09-16,Forward,"London, England",England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,"Manchester, England",England,,,,
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
-182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
+182818,Taylan Harris,2005-10-30,Midfielder,England,England,,,,
 66015,Joe Ironside,1993-10-16,Forward,"Middlesbrough, England",England,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
 171217,Jayden Joseph,2006-04-29,Midfielder,England,England,,,,
 136089,Nohan Kenneh,2003-01-10,Midfielder,"Zwedru, Liberia",Liberia,,,,
-58118,Jason Lowe,1991-09-02,Midfielder,"Wigan, England",England,5ft 10in,178.0,,
+58118,Jason Lowe,1991-09-02,Defender,"Wigan, England",England,5ft 10in,178.0,,
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 69101,Aaron McGowan,1996-07-24,Defender,"Maghull, England",England,6ft,183.0,12st 8lb,79.82
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
-88887,Cameron Norman,1995-10-12,Midfielder,"Norwich, England",England,6ft 2in,188.0,,
+88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
@@ -35,7 +35,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 123720,Saidou Khan,1995-12-05,Midfielder,England,Gambia,,,,
 144401,Sam Mather,2004-09-03,Midfielder,"Salford, England",England,,,,
 104921,Chris Merrie,1998-11-02,Midfielder,"Liverpool, England",England,,,,
-68138,Kieron Morris,1994-06-03,Midfielder,"Hereford, England",England,5ft 10in,178.0,,
+68138,Kieron Morris,1994-06-03,Forward,"Hereford, England",England,5ft 10in,178.0,,
 59417,Luke Norris,1993-06-03,Forward,"Stevenage, England",England,5ft 11in,180.0,13st 5lb,84.81
 165326,Samuel Taylor,2003-12-23,Forward,England,England,,,,
 69329,Brad Walker,1996-04-25,Midfielder,"Billingham, England",England,6ft 1in,185.0,12st 8lb,79.82
@@ -68,7 +68,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115876,Florent Hoti,2000-12-11,Midfielder,England,Kosovo,,,,
 108098,Kyle Jameson,1998-09-11,Defender,"Urmston, England",England,,,,
 165325,Arthur Lomax,2004-05-17,Midfielder,,England,,,,
-133373,Luke Robinson,2001-11-20,Midfielder,Scotland,Scotland,,,,
+133373,Luke Robinson,2001-11-20,Defender,Scotland,Scotland,,,,
 104933,Joel Mumbongo,1999-01-09,Forward,,Sweden,,,,
 140587,Elliott Nevitt,1996-10-30,Midfielder,England,England,,,,
 61258,Jon Nolan,1992-04-22,Midfielder,Huyton,England,5ft 11in,180.0,,
@@ -133,7 +133,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
 22779,David Perkins,1982-06-21,Midfielder,England,England,6ft 2in,188.0,12st,76.19
 73677,Luke Pilling,1997-07-25,Goalkeeper,England,Wales,6ft 1in,185.0,,
-104291,Jordan Ponticelli,1998-09-10,Forward,,England,5ft 10in,178.0,,
+104291,Jordan Ponticelli,1998-09-10,Midfielder,,England,5ft 10in,178.0,,
 35630,Darren Potter,1984-12-21,Midfielder,Liverpool,Ireland,6ft,183.0,11st 10lb,74.38
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
@@ -150,7 +150,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,6ft 3in,191.0,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
 43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
-90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
+90268,Jonny Smith,1997-07-28,Forward,England,England,,,,
 111843,Nick Long,,Midfielder,,England,,,,
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
 41710,Ishmael Miller,1987-03-05,Forward,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
