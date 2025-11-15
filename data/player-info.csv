@@ -18,7 +18,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Midfielder,"Slough, England",England,6ft 1in,185.0,,
-100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
+100535,Harvey Saunders,1997-07-20,Midfielder,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
@@ -124,7 +124,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
 107023,Morgan Feeney,1999-02-08,Defender,Bootle,England,6ft 2in,188.0,,
-99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
+99454,Harvey Gilmour,1998-12-15,Defender,Sheffield,England,,,,
 81732,Rushian Hepburn-Murphy,1998-08-28,Forward,England,England,5ft 8in,173.0,9st 3lb,58.5
 97829,Jacob Maddox,1998-11-03,Midfielder,Bristol,England,,,,
 69031,Luke McCullough,1994-02-15,Defender,Northern Ireland,Northern Ireland,,,,
@@ -133,7 +133,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
 22779,David Perkins,1982-06-21,Midfielder,England,England,6ft 2in,188.0,12st,76.19
 73677,Luke Pilling,1997-07-25,Goalkeeper,England,Wales,6ft 1in,185.0,,
-104291,Jordan Ponticelli,1998-09-10,Midfielder,,England,5ft 10in,178.0,,
+104291,Jordan Ponticelli,1998-09-10,Forward,,England,5ft 10in,178.0,,
 35630,Darren Potter,1984-12-21,Midfielder,Liverpool,Ireland,6ft,183.0,11st 10lb,74.38
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
@@ -148,6 +148,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 36344,Chris Dagnall,1986-04-15,Forward,Liverpool,England,5ft 8in,173.0,11st 8lb,73.47
 114197,Jay Devine,1999-07-26,Midfielder,,England,,,,
 92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,6ft 3in,191.0,,
+99454,Harvey Gilmour,1998-12-15,Midfielder,Sheffield,England,,,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
 43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
 90268,Jonny Smith,1997-07-28,Forward,England,England,,,,
@@ -159,7 +160,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 51654,Ben Pringle,1989-07-25,Midfielder,Newcastle upon Tyne,England,6ft 1in,185.0,11st 9lb,73.92
 63703,Cole Stockton,1994-03-13,Forward,"Knowsley, England",England,,,,
 44409,Richard Sutton,1986-04-29,Defender,,England,6ft,183.0,11st 5lb,72.11
-86076,Ben Tollitt,1994-11-30,Forward,"Liverpool, England",England,6ft 2in,188.0,,
+86076,Ben Tollitt,1994-11-30,Midfielder,"Liverpool, England",England,6ft 2in,188.0,,
 102631,Paddy Wharton,2000-05-27,Goalkeeper,,England,,,,
 49915,Ryan Williams,1991-04-08,Midfielder,"Birkenhead, England",England,5ft 7in,170.0,11st 11lb,74.83
 69292,James Alabi,1994-11-08,Forward,"London, England",England,,,,
