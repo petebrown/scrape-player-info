@@ -18,7 +18,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
 89447,Omari Patrick,1996-05-24,Defender,"Slough, England",England,6ft 1in,185.0,,
-100535,Harvey Saunders,1997-07-20,Midfielder,"Wolverhampton, England",England,,,,
+100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
 171213,Sol Solomon,2001-03-17,Forward,England,England,,,,
@@ -55,7 +55,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125532,James Norris,2003-04-04,Defender,"Liverpool, England",England,5ft 7in,170.0,,
 136725,Dan Pike,2002-01-09,Defender,England,England,,,,
 183773,Conor Robson,2003-09-21,Goalkeeper,,England,,,,
-124902,Joseph Starbuck,2002-08-03,Defender,,England,,,,
+124902,Joseph Starbuck,2002-08-03,Forward,,England,,,,
 96069,Josef Yarney,1997-10-08,Defender,,England,,,,
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
@@ -133,7 +133,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 115884,Bailey Passant,2000-11-29,Goalkeeper,Liverpool,England,6ft 4in,193.0,,
 22779,David Perkins,1982-06-21,Midfielder,England,England,6ft 2in,188.0,12st,76.19
 73677,Luke Pilling,1997-07-25,Goalkeeper,England,Wales,6ft 1in,185.0,,
-104291,Jordan Ponticelli,1998-09-10,Midfielder,,England,5ft 10in,178.0,,
+104291,Jordan Ponticelli,1998-09-10,Forward,,England,5ft 10in,178.0,,
 35630,Darren Potter,1984-12-21,Midfielder,Liverpool,Ireland,6ft,183.0,11st 10lb,74.38
 128730,Lewis Sinnot,2002-03-04,Defender,Liverpool,England,,,,
 111842,Carl Spellman,2000-11-06,Midfielder,Liverpool,England,5ft 7in,170.0,,
@@ -275,7 +275,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 72692,Callum Morris,1992-09-01,Midfielder,,England,,,,
 32335,Jon Otsemobor,1983-03-23,Defender,Liverpool,England,5ft 10in,178.0,12st 6lb,78.91
 70729,Matthew Pennington,1994-10-06,Defender,England,England,6ft 1in,185.0,12st 1lb,76.64
-73901,Kristoffer Peterson,1994-11-28,Forward,"Gothenburg, Sweden",Sweden,,,,
+73901,Kristoffer Peterson,1994-11-28,Midfielder,"Gothenburg, Sweden",Sweden,,,,
 34287,Andy Robinson,1979-11-03,Midfielder,,England,5ft 8in,173.0,10st 1lb,63.95
 24524,Akpo Sodje,1981-01-31,Forward,,England,6ft 1in,185.0,12st 4lb,78.0
 51399,Ash Taylor,1990-09-02,Defender,England,Wales,6ft,183.0,12st,76.19
