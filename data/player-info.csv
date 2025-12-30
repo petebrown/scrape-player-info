@@ -2,11 +2,11 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 124906,Jack Barrett,2002-06-04,Goalkeeper,England,England,,,,
 189694,Billy Blacker,2006-05-25,Midfielder,,England,,,,
 133368,Ethan Bristow,2001-11-27,Midfielder,"Maidenhead, England",St Kitts & Nevis,,,,
-71332,Patrick Brough,1996-02-20,Defender,"Carlisle, England",England,5ft 7in,170.0,,
+71332,Patrick Brough,1996-02-20,Midfielder,"Carlisle, England",England,5ft 7in,170.0,,
 126162,Josh Davison,1999-09-16,Forward,"London, England",England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,"Manchester, England",England,,,,
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
-182818,Taylan Harris,2005-10-30,Midfielder,England,England,,,,
+182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
 66015,Joe Ironside,1993-10-16,Forward,"Middlesbrough, England",England,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
 171217,Jayden Joseph,2006-04-29,Midfielder,England,England,,,,
@@ -119,7 +119,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 125058,Jack Young,2000-10-21,Midfielder,England,England,,,,
 128728,Joe Blackham,2001-09-10,Midfielder,Liverpool,England,,,,
 89002,Cameron Borthwick-Jackson,1997-02-02,Defender,,England,6ft 1in,185.0,,
-60564,Jake Caprice,1992-11-11,Midfielder,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
+60564,Jake Caprice,1992-11-11,Defender,Lambeth,England,5ft 10in,178.0,11st 7lb,73.02
 70228,Aaron Chapman,1990-05-29,Goalkeeper,Rotherham,England,6ft 7in,200.99999999999997,,
 52497,Andy Cook,1990-10-18,Forward,"Bishop Auckland, England",England,6ft 1in,185.0,11st 3lb,71.2
 33325,Neil Danns,1982-11-23,Midfielder,Liverpool,Guyana,5ft 7in,170.0,12st 1lb,76.64
