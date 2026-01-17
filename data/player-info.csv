@@ -9,6 +9,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
 66015,Joe Ironside,1993-10-16,Forward,"Middlesbrough, England",England,,,,
 63609,Connor Jennings,1991-10-29,Forward,"Manchester, England",England,6ft,183.0,,
+205303,Dylan Jones,2005-01-03,Forward,England,England,,,,
 171217,Jayden Joseph,2006-04-29,Midfielder,England,England,,,,
 136089,Nohan Kenneh,2003-01-10,Midfielder,"Zwedru, Liberia",Liberia,,,,
 58118,Jason Lowe,1991-09-02,Defender,"Wigan, England",England,5ft 10in,178.0,,
@@ -22,6 +23,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
 171213,Sol Solomon,2001-03-17,Midfielder,England,England,,,,
+172198,William Tamen,2006-05-12,Defender,England,England,,,,
 76981,Jordan Turnbull,1994-10-30,Defender,"Trowbridge, England",England,,,,
 142753,Charlie Whitaker,2003-09-16,Forward,,England,,,,
 160029,Zak Bradshaw,2003-09-22,Midfielder,England,England,,,,
@@ -60,7 +62,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 128729,Jake Burton,2001-11-15,Forward,Liverpool,England,,,,
 60649,Neill Byrne,1993-02-02,Defender,"Portmarnoch, Republic of Irela",Ireland,,,,
 104579,Logan Chalmers,2000-03-24,Midfielder,"Dundee, Scotland",Scotland,,,,
-103555,Josh Dacres-Cogley,1996-03-12,Defender,"Coventry, England",England,5ft 10in,178.0,10st 8lb,67.12
+103555,Josh Dacres-Cogley,1996-03-12,Midfielder,"Coventry, England",England,5ft 10in,178.0,10st 8lb,67.12
 89329,Ross Doohan,1998-03-29,Goalkeeper,Scotland,Scotland,,,,
 165849,Max Fisher,2003-10-03,Midfielder,,England,,,,
 121903,Paul Glatzel,2001-02-20,Midfielder,"Liverpool, England",Germany,,,,
@@ -107,7 +109,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 74341,Sid Nelson,1996-01-01,Defender,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,Birkenhead,England,,,,
 30552,David Nugent,1985-05-02,Forward,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
-75196,Otis Khan,1995-09-05,Forward,,Pakistan,,,,
+75196,Otis Khan,1995-09-05,Midfielder,,Pakistan,,,,
 54992,Stefan Payne,1991-08-10,Forward,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
 60385,George Ray,1993-10-13,Defender,"Warrington, England",Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,England,England,5ft 10in,178.0,,
@@ -150,7 +152,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 92850,Shamal George,1998-01-06,Goalkeeper,"Wirral, England",England,6ft 3in,191.0,,
 77160,Evan Gumbs,1997-07-21,Defender,Runcorn,England,5ft 8in,173.0,,
 43779,Jay Harris,1987-04-15,Midfielder,Liverpool,England,5ft 7in,170.0,11st,69.84
-90268,Jonny Smith,1997-07-28,Forward,England,England,,,,
+90268,Jonny Smith,1997-07-28,Midfielder,England,England,,,,
 111843,Nick Long,,Midfielder,,England,,,,
 52777,Steve McNulty,1983-09-26,Defender,,England,6ft 1in,185.0,13st 12lb,87.98
 41710,Ishmael Miller,1987-03-05,Forward,Manchester,England,6ft 3in,191.0,13st 8lb,86.17
@@ -294,8 +296,8 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 44173,Mark McChrystal,1984-06-26,Defender,,Northern Ireland,6ft 1in,185.0,13st 8lb,86.17
 64219,Sean McGinty,1993-08-11,Defender,"Maidstone, England",Ireland,,,,
 55851,Adam McGurk,1989-01-24,Forward,,Northern Ireland,5ft 9in,175.0,12st 13lb,82.09
-58154,Michael O'Halloran,1991-01-06,Forward,"Glasgow, Scotland",Scotland,5ft 11in,180.0,,
-53112,Liam Palmer,1991-09-19,Midfielder,England,Scotland,6ft 2in,188.0,,
+58154,Michael O'Halloran,1991-01-06,Midfielder,"Glasgow, Scotland",Scotland,5ft 11in,180.0,,
+53112,Liam Palmer,1991-09-19,Defender,England,Scotland,6ft 2in,188.0,,
 26762,Mamady Sidibe,1979-12-18,Forward,"Kremis, Kayes Region, Mali",Mali,6ft 4in,193.0,12st 1lb,76.64
 65293,Will Vaulks,1993-09-13,Midfielder,"Liverpool, England",Wales,5ft 11in,180.0,11st 8lb,73.47
 46484,Lucas Akins,1989-02-25,Midfielder,England,Grenada,5ft 11in,180.0,12st 8lb,79.82
