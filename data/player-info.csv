@@ -97,7 +97,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 144980,Lewis Warrington,2002-10-10,Midfielder,"Birkenhead, England",England,,,,
 67179,Ryan Watson,1993-07-07,Midfielder,,England,6ft 1in,185.0,,
 55846,Ollie Banks,1992-09-21,Midfielder,Rotherham,England,6ft 3in,191.0,11st 11lb,74.83
-87739,Corey Blackett-Taylor,1997-09-23,Forward,"Birmingham, England",England,5ft 6in,168.0,10st 6lb,66.21
+87739,Corey Blackett-Taylor,1997-09-23,Midfielder,"Birmingham, England",England,5ft 6in,168.0,10st 6lb,66.21
 46423,Ali Crawford,1991-07-30,Midfielder,Scotland,Scotland,5ft 7in,170.0,,
 56548,Danny Lloyd,1991-12-03,Forward,,England,,,,
 41823,Scott Davies,1987-02-23,Goalkeeper,Blackpool,England,6ft,183.0,11st,69.84
@@ -109,7 +109,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 74341,Sid Nelson,1996-01-01,Defender,Lewisham,England,6ft 1in,185.0,,
 116933,George Nugent,2001-12-04,Midfielder,Birkenhead,England,,,,
 30552,David Nugent,1985-05-02,Forward,Liverpool,England,5ft 11in,180.0,11st 9lb,73.92
-75196,Otis Khan,1995-09-05,Midfielder,,Pakistan,,,,
+75196,Otis Khan,1995-09-05,Forward,,Pakistan,,,,
 54992,Stefan Payne,1991-08-10,Forward,Lambeth,England,5ft 9in,175.0,11st 7lb,73.02
 60385,George Ray,1993-10-13,Defender,"Warrington, England",Wales,5ft 10in,178.0,11st 3lb,71.2
 55554,Liam Ridehalgh,1991-04-20,Defender,England,England,5ft 10in,178.0,,
