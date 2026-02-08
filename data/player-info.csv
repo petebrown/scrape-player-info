@@ -5,6 +5,7 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 71332,Patrick Brough,1996-02-20,Defender,"Carlisle, England",England,5ft 7in,170.0,,
 126162,Josh Davison,1999-09-16,Forward,"London, England",England,,,,
 70469,Kristian Dennis,1990-03-12,Forward,"Manchester, England",England,,,,
+210101,Max Dickov,2002-04-27,Forward,,England,,,,
 81221,Sam Finley,1992-08-04,Midfielder,"Liverpool, England",England,5ft 7in,170.0,10st 7lb,66.67
 182818,Taylan Harris,2005-10-30,Forward,England,England,,,,
 66015,Joe Ironside,1993-10-16,Forward,"Middlesbrough, England",England,,,,
@@ -13,12 +14,16 @@ player_id,real_name,player_dob,player_position,place_of_birth,nationality,height
 171217,Jayden Joseph,2006-04-29,Midfielder,England,England,,,,
 136089,Nohan Kenneh,2003-01-10,Midfielder,"Zwedru, Liberia",Liberia,,,,
 58118,Jason Lowe,1991-09-02,Midfielder,"Wigan, England",England,5ft 10in,178.0,,
+74282,Marko Marosi,1993-10-23,Goalkeeper,"Michalovce, Slovakia",Slovakia,6ft 4in,193.0,12st 6lb,78.91
 78791,Luke McGee,1995-09-02,Goalkeeper,"Edgware, England",England,6ft 3in,191.0,,
 69101,Aaron McGowan,1996-07-24,Defender,"Maghull, England",England,6ft,183.0,12st 8lb,79.82
 15110,Joe Murphy,1981-08-21,Goalkeeper,"Dublin, Republic of Ireland",Ireland,6ft 2in,188.0,12st 8lb,79.82
+161523,Stephan Negru,2002-07-24,"Dublin, Republic of Ireland",Ireland,,,,
 88887,Cameron Norman,1995-10-12,Defender,"Norwich, England",England,6ft 2in,188.0,,
 117422,Lee O'Connor,2000-07-28,Defender,"Waterford, Republic of Ireland",Ireland,,,,
+143884,Zech Obiero,2005-01-27,Forward,England,Kenya,,,,
 89447,Omari Patrick,1996-05-24,Forward,"Slough, England",England,6ft 1in,185.0,,
+164631,James Plant,2004-02-03,Midfielder,"Werrington, England",,,,
 100535,Harvey Saunders,1997-07-20,Forward,"Wolverhampton, England",England,,,,
 55835,Richard Smallwood,1990-12-29,Midfielder,"Dormanstown, England",England,5ft 11in,180.0,,
 75652,Nathan Smith,1996-04-03,Defender,"Madeley, England",England,,,,
